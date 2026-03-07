@@ -1,91 +1,139 @@
-# 🌎 PLUTO TV PLAYLISTS
+# 🌎 Pluto TV Playlists (Auto-Updating)
 
-![Auto Update](https://img.shields.io/badge/Token-Auto%20Updated-brightgreen)
+![Auto Update](https://img.shields.io/badge/JWT-Auto%20Refreshed-brightgreen)
 
----
+Automatically generates and refreshes a **Pluto TV M3U playlist** with a valid session token using GitHub Actions.
 
-# Pluto TV Playlists
-
-This repository provides an automatically updated Pluto TV M3U playlist with EPG.  
-**Important:** Each user must use their own unique `client_id` (UUID) to avoid stream conflicts on Pluto TV servers.
+Each user must generate their own unique `client_id` (UUID). This prevents playback conflicts and ensures stable stream access.
 
 ---
 
-## Step 1: Fork This Repository
+## 🚀 How It Works
 
-1. Click the **Fork** button on the top right of this repo.  
-2. You now have your own copy of the repo in your GitHub account.
+- GitHub Actions runs on a schedule.
+- A fresh Pluto session JWT is requested.
+- The M3U playlist is regenerated using:
+  - Your unique `client_id`
+  - A valid session token
+- The updated playlist is committed to your fork.
 
----
-
-## Step 2: Generate Your Client ID (UUID)
-
-You need a unique client ID for Pluto TV:
-
-- Go to [https://www.uuidgenerator.net/](https://www.uuidgenerator.net/) and generate a new UUID.  
-- Example: `9a1cce51-2d2f-4b6c-9f8e-1e2d0a3b4c5d`
-- Copy the UUID.
+No manual token updates required.
 
 ---
 
-## Step 3: Edit `config.json`
+# 📌 Setup Instructions
 
-Open the `config.json` file in your fork and replace the default client_id with your UUID:
+## 1️⃣ Fork This Repository
 
-```json
+Click **Fork** (top right of this page).
+
+You now have your own independent copy.
+
+---
+
+## 2️⃣ Generate a Unique Client ID (UUID)
+
+You must generate your own UUID.
+
+Use:
+https://www.uuidgenerator.net/
+
+Example:
+9a1cce51-2d2f-4b6c-9f8e-1e2d0a3b4c5d
+
+Copy your generated UUID.
+
+---
+
+## 3️⃣ Edit `config.json`
+
+In your fork:
+
+Open `config.json` and replace:
+
 {
   "client_id": "PASTE_YOUR_UNIQUE_UUID_HERE"
 }
-```
 
-### Step 4: Run GitHub Actions
+With:
 
-After editing `config.json`:
+{
+  "client_id": "your-generated-uuid-here"
+}
 
-1. Go to the **Actions** tab in your fork.
-2. Select **All workflows** the click **Auto Pluto Update**.
+Commit the change.
+
+---
+
+## 4️⃣ Run the Workflow
+
+1. Go to the **Actions** tab.
+2. Select **Auto Pluto Update**.
 3. Click **Run workflow**.
-4. Wait for the workflow to finish. The playlist will now be updated with your unique client ID.
+4. Wait for it to complete.
 
-### Step 5: Access Your M3U8 Playlist
+Your playlist will now be generated.
 
-After running the workflow:
-
-1. Go to the `output/` folder in your forked repository.  
-2. You will find your **personalized M3U8 playlist** (`plutotv_us.m3u8`) that uses your own client ID.  
-3. Open the .m3u8 file → tap the three dots (mobile) → select View → copy the URL.
-On desktop, just click Raw → copy the URL.
-### Example RAW URL format:
-```text
-https://raw.githubusercontent.com/NasiLemakk/Pluto-TV-Playlists/main/plutotv_us.m3u
-```
-Add the URL above as a remote playlist in your IPTV player (TiviMate, IPTV Smarters, OTT Navigator, etc).
-
-
-> **Note:** Each user will have their own playlist file generated automatically with their unique client ID and JWT token.
----
-
-### **⚡ Automatic Token Update**
-
-This repository uses GitHub Actions to automatically refresh the Pluto TV session token and regenerate the M3U playlist.
-
-No manual intervention required.
+After that, it will auto-update on schedule.
 
 ---
 
-## 📺 EPG Links
-```text
+# 📂 Access Your Playlist
+
+After the workflow completes:
+
+1. Open the `output/` folder.
+2. Locate:
+   plutotv_us.m3u8
+3. Click **Raw**
+4. Copy the URL.
+
+### RAW URL Format
+
+https://raw.githubusercontent.com/YOUR_USERNAME/REPO_NAME/main/output/plutotv_us.m3u8
+
+Add this URL to your IPTV player:
+
+- TiviMate
+- IPTV Smarters
+- OTT Navigator
+- VLC
+- Any M3U-compatible player
+
+---
+
+# 🔄 Automatic Token Refresh
+
+The workflow automatically:
+
+- Requests a fresh Pluto session token
+- Regenerates playlist URLs
+- Commits updated files
+
+Tokens expire regularly.  
+This automation ensures your playlist remains valid.
+
+---
+
+# 📺 EPG (Electronic Program Guide)
+
 https://raw.githubusercontent.com/matthuisman/i.mjh.nz/refs/heads/master/PlutoTV/all.xml
-```
 
-## Credits
+---
 
-This project is based on pluto_tv_scraper by 4v3ngR.
+# ⚠️ Important Notes
 
-Original project:  
+- Do not share your generated playlist publicly.
+- Each user must use their own UUID.
+- Excessive requests may result in temporary IP rate limiting.
+- This project is for personal use.
+
+---
+
+# 🙏 Credits
+
+Based on:
 https://github.com/4v3ngR/pluto_tv_scraper
 
-Some modifications and customization were made for this repository.
-
-EPG data provided by [Matt Huisman](https://github.com/matthuisman)  
-Source: https://github.com/matthuisman/i.mjh.nz
+EPG data provided by:
+https://github.com/matthuisman/i.mjh.nz
