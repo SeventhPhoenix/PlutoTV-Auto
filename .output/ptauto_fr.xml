@@ -2231,6 +2231,11 @@
         <desc>Marty, scénariste hollywoodien sans inspiration, peine à écrire son nouveau film : « 7 psychopathes ». Son meilleur ami Billy décide de l’aider en lui présentant de vrais criminels. A...</desc>
         <icon src="https://images.pluto.tv/series/610117635233ba00136a019b/tile_1768263482729.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
     </programme>
+    <programme channel="60b4d6c806ad2a00073b3108" start="20260308153200 +0000" stop="20260308180900 +0000">
+        <title>Far away : les soldats de l'espoir</title>
+        <desc>Normandie, 1944. Dans les rangs de l’armée allemande, les alliés découvrent 2 soldats venus de l’autre bout du monde. Leur exploit est resté inconnu jusqu’à ce...</desc>
+        <icon src="https://images.pluto.tv/series/6101176b69a45000134534b7/tile_1768337414829.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
     <programme channel="60c34592c911890007f29a73" start="20260308093728 +0000" stop="20260308111522 +0000">
         <title>Attack on Titan</title>
         <desc>Alors que l'eau viable s'épuise sur Terre, une mission est envoyée sur Titan.</desc>
@@ -2390,6 +2395,11 @@
         <title>Macho Callaghan se déchaîne</title>
         <desc>Un lieutenant des Gardes Fédéraux part à la recherche des hommes qui ont tué son ami et infiltre le gang dirigé par Butch Cassidy pour l'anéantir.</desc>
         <icon src="https://images.pluto.tv/series/68daa1c5393a03f3e3ea1809/tile_1759184584170.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="65cca3e2ec452d0008af3a65" start="20260308160250 +0000" stop="20260308172625 +0000">
+        <title>Black Spurs</title>
+        <desc>1880, Kansas. Un homme habile dans le maniement du revolver découvre qu'il est plus rentable de toucher des primes en pourchassant des hors-la-loi plutôt que de travailler dans un ranch. Mais sa fiancée n'approuve pas sa nouvelle vie aventureuse.</desc>
+        <icon src="https://images.pluto.tv/series/66192ef12fd04d00130c92fb/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
     </programme>
     <programme channel="662a622b5e2370000800f392" start="20260308095911 +0000" stop="20260308120300 +0000">
         <title>Faites Entrer L'Accusé: Roberto Succo, Succo le fou</title>
@@ -6650,6 +6660,11 @@ Nobita, Shizuka et Doraemon sauvent une vieille poupée des griffes d’un chien
         <title>Scorpion</title>
         <desc>Angelo, passionné de boxe thaï, est exclu des championnats puis tue accidentellement un rival. Après six ans de prison, brisé, il renaît par amour et devient Scorpion : une machine à combattre, prête à tout encaisser pour revenir au sommet.</desc>
         <icon src="https://images.pluto.tv/series/6867d496655e1e05781901ca/tile_1768340030267.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="5f8ed1ff5c39700007e2204a" start="20260308191949 +0000" stop="20260308205108 +0000">
+        <title>Meurtre en suspens</title>
+        <desc>Un modeste comptable se trouve pris dans un terrible piège lorsque sa fille est enlevée sous ses yeux afin de l'obliger à assassiner une femme politique influente. Il se rend compte que les services de sécurité font partie du complot.</desc>
+        <icon src="https://images.pluto.tv/series/661e2088a9f2d20013a9ea72/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
     </programme>
     <programme channel="5f8ed9461b35690007a0bc3a" start="20260308145216 +0000" stop="20260308154116 +0000">
         <title>Hantise: Visions sanglantes</title>
@@ -26500,6 +26515,11 @@ Sylvaine Simon nous expose son projet novateur de jardin circulaire.</desc>
         <title>La vengeance aux deux visages</title>
         <desc>Sonora, un village mexicain, en 1880. Rio et Dad Longworth pillent la banque locale et fuient, poursuivis par les Rurales. Le cheval de Rio est atteint par une balle, et Dad poursuit sa route après avoir promis à Rio de revenir avec une autre monture.</desc>
         <icon src="https://images.pluto.tv/series/6103b0fba5659300134ef3b5/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="65cca3e2ec452d0008af3a65" start="20260309114147 +0000" stop="20260309130713 +0000">
+        <title>Fort Utah</title>
+        <desc>Au cœur de l'Arizona, sous l'emprise de la peur, un commerçant abat un chef Apache venu parler de paix. Désormais, son fils, Mangas, ne vit plus que pour le venger.</desc>
+        <icon src="https://images.pluto.tv/series/661cc69be3c69d0013c4f3e0/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
     </programme>
     <programme channel="662a622b5e2370000800f392" start="20260309054229 +0000" stop="20260309071541 +0000">
         <title>Faites Entrer L'Accusé: L'Abbé Dufour, le secret de la vallée</title>
