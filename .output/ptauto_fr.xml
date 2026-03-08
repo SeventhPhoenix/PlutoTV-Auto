@@ -1791,6 +1791,11 @@
         <desc>Dustin Hoffman (Rainman), un gentil étudiant qui s'entraîne pour le marathon, se retrouve coincé malgré lui dans un jeu dangereux impliquant Christian Szell, un fugitif nazi.</desc>
         <icon src="https://images.pluto.tv/series/661e1f271ed2fc0013d9bb60/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
     </programme>
+    <programme channel="5f8ed168f72fcd0007e56269" start="20260308145124 +0000" stop="20260308163845 +0000">
+        <title>Simples Secrets</title>
+        <desc>Avec un casting de stars comprenant Leonardo DiCaprio, Meryl Streep, Diane Keaton et Robert DeNiro, Simples Secrets raconte l'histoire drôle et émouvante du voyage d'une famille pour se retrouver.</desc>
+        <icon src="https://images.pluto.tv/series/660a8438ab971d0013b5d590/tile_1768351684416.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
     <programme channel="5f8ed1ff5c39700007e2204a" start="20260308094426 +0000" stop="20260308113026 +0000">
         <title>10,000 Days</title>
         <desc>Il y a 10 000 jours, la comète 23 a heurté de plein fouet la Terre avec une force comparable à celle d'une arme nucléaire, plongeant le monde dans une nouvelle ère glaciaire. Depuis, ceux qui ont survécu ne cessent de se battre pour leur survie.</desc>
@@ -14887,9 +14892,9 @@ Gaël et Dominique nous parlent des actions écologiques menées sur leur territ
         <icon src="https://images.pluto.tv/series/659fb52b32c1b30008de1be1/tile_1772460692037.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
     </programme>
     <programme channel="64d626ac9b414d000820e2fc" start="20260308213000 +0000" stop="20260308215200 +0000">
-        <title>DAZN Ringside</title>
-        <desc>no info available</desc>
-        <icon src="https://images.pluto.tv/channels/64d626ac9b414d000820e2fc/featuredImage_1772441714915.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=1600"/>
+        <title>DAZN Combat</title>
+        <desc>DAZN Combat offre aux fans des sièges de premier rang pour le meilleure de la boxe et du MMA, y compris des événements en direct, les meilleurs moments, des archives de combats légendaires, des documentaires et bien plus encore.</desc>
+        <icon src="https://images.pluto.tv/series/6548c0943e6938001ad7d353/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
     </programme>
     <programme channel="64d626ac9b414d000820e2fc" start="20260308215200 +0000" stop="20260308224500 +0000">
         <title>Boxing</title>
@@ -24413,6 +24418,11 @@ Sylvaine Simon nous expose son projet novateur de jardin circulaire.</desc>
         <desc>Six players battle in Philadelphia for the more than $400,000 first-place prize in the WPT Parx Open Poker Classic.</desc>
         <icon src="https://images.pluto.tv/series/5fb5604f9d991c001a9e6043/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
     </programme>
+    <programme channel="5f8ecfb9db6c180007a6d1b0" start="20260309075500 +0000" stop="20260309102700 +0000">
+        <title>World Poker Tour: WPT Legends of Poker</title>
+        <desc>Six players compete at the Bicycle Casino in Los Angeles for the $500,000 first-place prize in the WPT Legends of Poker.</desc>
+        <icon src="https://images.pluto.tv/series/5fb5604f9d991c001a9e6043/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
     <programme channel="60d35bcaf1ff4a00078af0a6" start="20260309023000 +0000" stop="20260309030000 +0000">
         <title>Euronews</title>
         <desc>La première chaîne européenne d'information internationale, en France. Grâce à Pluto TV, restez informé gratuitement 24/24 h et 7/7 j.</desc>
@@ -25877,6 +25887,11 @@ Sylvaine Simon nous expose son projet novateur de jardin circulaire.</desc>
         <title>Bye Bye Love</title>
         <desc>New York, 1963. Une chroniqueuse, dont le nouveau roman qui rejette l’amour est couronné de succès, tombe sous le charme d’un journaliste tombeur de ces dames qui décide de la séduire…</desc>
         <icon src="https://images.pluto.tv/series/606d73c4a224c9001bb9470c/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="5f8ed168f72fcd0007e56269" start="20260309103926 +0000" stop="20260309124431 +0000">
+        <title>Pas un mot</title>
+        <desc>Quand la fille du docteur Nathan Conrad est enlevée, un secret qu’une de ses patientes catatonique détient pourrait être son seul espoir.</desc>
+        <icon src="https://images.pluto.tv/series/606d73c0a224c9001bb946dc/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
     </programme>
     <programme channel="5f8ed1ff5c39700007e2204a" start="20260309055938 +0000" stop="20260309075138 +0000">
         <title>A Good Man FR</title>
