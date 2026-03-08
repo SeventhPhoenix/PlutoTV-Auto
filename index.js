@@ -1,6 +1,6 @@
 #!/usr/bin/env node
 
-process.title = "ptauto run";
+process.title = "PTAUTO";
 
 const check = (minver) => {
 	let semver = process.versions.node.split('.');
@@ -52,6 +52,6 @@ check(16);
 	} else if (port) {
 		server.serve(config);
 	} else {
-		await ptauto.process(config);
+			await ptauto.process(config);
 	}
 })();
