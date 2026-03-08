@@ -11454,14 +11454,19 @@ Estrellas Invitadas: Brian Cox, Bear Grylls.</desc>
         <icon src="https://images.pluto.tv/series/67ef8a7889ba442cd927ecbe/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
     </programme>
     <programme channel="5f1ac8099c49f600076579b2" start="20260308154218 +0000" stop="20260308171818 +0000">
-        <title>Los Dalton Contra Lucky Luke</title>
-        <desc>Cuatro torpes hermano intentan impresionar a su criminal madre asaltando un banco.</desc>
-        <icon src="https://images.pluto.tv/series/5f4eacc9db45a1001a795155/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+        <title>Pluto TV Cine Comedia</title>
+        <desc>no info available</desc>
+        <icon src="https://images.pluto.tv/channels/5f1ac8099c49f600076579b2/featuredImage_1769092378954.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=1600"/>
     </programme>
     <programme channel="5f1ac8099c49f600076579b2" start="20260308171818 +0000" stop="20260308194218 +0000">
         <title>La excepción a la regla</title>
         <desc>Una historia centrada en un amorío que Howard Hughes tuvo en sus últimos años con una mujer más joven.</desc>
         <icon src="https://images.pluto.tv/series/6076b693235736001ac44797/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="5f1ac8099c49f600076579b2" start="20260308194218 +0000" stop="20260308213218 +0000">
+        <title>Seducción a la carta</title>
+        <desc>La magia y la risa son los principales ingredientes de "Seducción a la carta". Una historia de amor de la dueña de un restaurante y un ejecutivo que parecen no tener nada en común.</desc>
+        <icon src="https://images.pluto.tv/series/6076b697235736001ac447f7/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
     </programme>
     <programme channel="5f1ac8a87cd38d000745d7cf" start="20260308135741 +0000" stop="20260308160113 +0000">
         <title>Los Padecientes</title>
