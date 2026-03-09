@@ -9,7 +9,8 @@
   "scripts": {
     "generate": "node ./index.js",
     "serve": "node ./index.js --port 8080",
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "check": "node --check index.js && node --check lib/config.js && node --check lib/server.js && node --check lib/utils.js && node --check lib/ptauto/api.js && node --check lib/ptauto/index.js && node --check lib/ptauto/ondemand.js",
+    "test": "node --test"
   },
   "bin": {
     "ptauto": "./index.js"
