@@ -5344,6 +5344,11 @@ En essayant de trouver un léopard dans le vaste paysage désertique du sud de l
         <desc>Six players compete in Paris for the more than $475,000 first-place prize in the WPT Grand Prix de Paris.</desc>
         <icon src="https://images.pluto.tv/series/5fb5604f9d991c001a9e6043/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
     </programme>
+    <programme channel="5f8ecfb9db6c180007a6d1b0" start="20260309125900 +0000" stop="20260309153100 +0000">
+        <title>World Poker Tour: WPT Borgata Poker Open</title>
+        <desc>Six players do battle in Atlantic City for the more than $800,000 first-place prize in the WPT Borgata Poker Open.</desc>
+        <icon src="https://images.pluto.tv/series/5fb5604f9d991c001a9e6043/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
     <programme channel="60d35bcaf1ff4a00078af0a6" start="20260309073000 +0000" stop="20260309080000 +0000">
         <title>Euronews</title>
         <desc>La première chaîne européenne d'information internationale, en France. Grâce à Pluto TV, restez informé gratuitement 24/24 h et 7/7 j.</desc>
@@ -17091,6 +17096,11 @@ Nobita et Doraemon trouvent le Passe-Partout qui permet à son détenteur d’en
         <title>Tomiris</title>
         <desc>C'est l'histoire de la vie de la grande reine de la steppe: la légendaire Tomiris. Elle est destinée à devenir une guerrière habile, à survivre à la perte de ses proches et à unir les tribus Scythes et Saka sous son autorité.</desc>
         <icon src="https://images.pluto.tv/series/6979f71400cf117a55455122/tile_1769600789975.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="62f3e2d000418d00070f7dbc" start="20260310004401 +0000" stop="20260310023601 +0000">
+        <title>Yamada, La Voix Du Samouraï</title>
+        <desc>La véritable histoire du samouraï Ayothaya Era...</desc>
+        <icon src="https://images.pluto.tv/series/64539468a7ef77001a24b993/tile_1768326482754.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
     </programme>
     <programme channel="64c9260ac0222700089ee62b" start="20260309193000 +0000" stop="20260309200000 +0000">
         <title>Family Club</title>
