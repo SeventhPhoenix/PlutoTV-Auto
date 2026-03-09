@@ -1,28 +1,50 @@
-name: Auto Update 1.0
+name: Auto Update 2.0
 
 on:
   schedule:
     - cron: '0 */3 * * *'
   workflow_dispatch:
 
+permissions:
+  contents: write
+
+concurrency:
+  group: auto-update
+  cancel-in-progress: true
+
 jobs:
   build:
     runs-on: ubuntu-latest
+    timeout-minutes: 10
 
     steps:
       - name: Checkout repo
         uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+
+      - name: Setup Node.js
+        uses: actions/setup-node@v4
+        with:
+          node-version: 20
+          cache: npm
 
       - name: Install dependencies
-        run: npm install
+        run: npm ci
 
       - name: Run scraper
         run: node index.js
 
-      - name: Commit files
+      - name: Commit and push changes
         run: |
-          git config --global user.name "github-actions"
-          git config --global user.email "actions@github.com"
-          git add .
-          git commit -m "Automatic Update" || echo "No changes"
-          git push --force
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+
+          if [ -n "$(git status --porcelain)" ]; then
+            TIMESTAMP="$(TZ='Australia/Sydney' date '+%Y-%m-%d %H:%M:%S %Z')"
+            git add .
+            git commit -m "Automatic update - ${TIMESTAMP}"
+            git push
+          else
+            echo "No changes to commit"
+          fi
