@@ -38,10 +38,25 @@ check(16);
 
 	if (port && refresh) {
 		setRuntimeClientId();
-		setInterval(() => {
+		let refreshing = false;
+		const refreshFn = async () => {
+			if (refreshing) {
+				console.warn('WARN: previous refresh is still running, skipping this cycle');
+				return;
+			}
+			refreshing = true;
 			setRuntimeClientId();
-			ptauto.process(config);
-		}, refresh * 1000);
+			try {
+				await ptauto.process(config);
+			} catch (ex) {
+				console.error('ERROR: periodic refresh failed:', ex.message);
+			} finally {
+				refreshing = false;
+			}
+		};
+
+		await refreshFn();
+		setInterval(refreshFn, refresh * 1000);
 		server.serve(config);
 	} else if (port) {
 		setRuntimeClientId();
