@@ -1,6 +1,22 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tv SYSTEM "xmltv.dtv">
 <tv source-info-name="nobody,xmltv.net,nzxmltv.com">
+    <channel id="625ef985025eb50013a4cb42-us">
+        <display-name>War of the Worlds</display-name>
+        <icon src="https://images.pluto.tv/episodes/625ef985025eb50013a4cb42/screenshot16_9_1777574524294.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=540&amp;q=75&amp;w=960"/>
+    </channel>
+    <channel id="635c1e430888bc001ad01a9b-us">
+        <display-name>Sonic the Hedgehog</display-name>
+        <icon src="https://images.pluto.tv/episodes/635c1e430888bc001ad01a9b/screenshot16_9_1780412042036.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=540&amp;q=75&amp;w=960"/>
+    </channel>
+    <channel id="60ff5a937791ae0013c737c7-us">
+        <display-name>Triple 9</display-name>
+        <icon src="https://images.pluto.tv/episodes/60ff5a937791ae0013c737c7/screenshot16_9_1775494441261.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=540&amp;q=75&amp;w=960"/>
+    </channel>
+    <channel id="5f931dabfe51e4001aaca88b-us">
+        <display-name>Runaway Bride</display-name>
+        <icon src="https://images.pluto.tv/episodes/5f931dabfe51e4001aaca88b/screenshot16_9_1777911841697.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=540&amp;q=75&amp;w=960"/>
+    </channel>
     <channel id="5ea1a8101ea4a6001a5cdb95-us">
         <display-name>Minority Report</display-name>
         <icon src="https://images.pluto.tv/episodes/5ea1a8101ea4a6001a5cdb95/screenshot16_9_1780407001731.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=540&amp;q=75&amp;w=960"/>
@@ -60,10 +76,6 @@
     <channel id="60da327bb8187f00136b07f2-us">
         <display-name>Terminator 2: Judgment Day</display-name>
         <icon src="https://images.pluto.tv/episodes/60da327bb8187f00136b07f2/screenshot16_9_1777579337783.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=540&amp;q=75&amp;w=960"/>
-    </channel>
-    <channel id="635c1e430888bc001ad01a9b-us">
-        <display-name>Sonic the Hedgehog</display-name>
-        <icon src="https://images.pluto.tv/episodes/635c1e430888bc001ad01a9b/screenshot16_9_1780412042036.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=540&amp;q=75&amp;w=960"/>
     </channel>
     <channel id="64aed673f56d820013c86ddf-us">
         <display-name>Gremlins</display-name>
@@ -273,17 +285,9 @@
         <display-name>Transformers: Dark of the Moon</display-name>
         <icon src="https://images.pluto.tv/episodes/60d9ed1e60a2980013b0af5a/screenshot16_9_1777571283825.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=540&amp;q=75&amp;w=960"/>
     </channel>
-    <channel id="60ff5a937791ae0013c737c7-us">
-        <display-name>Triple 9</display-name>
-        <icon src="https://images.pluto.tv/episodes/60ff5a937791ae0013c737c7/screenshot16_9_1775494441261.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=540&amp;q=75&amp;w=960"/>
-    </channel>
     <channel id="5e94acf8d2f200001a783301-us">
         <display-name>Deep Impact</display-name>
         <icon src="https://images.pluto.tv/episodes/5e94acf8d2f200001a783301/screenshot16_9_1771530481099.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=540&amp;q=75&amp;w=960"/>
-    </channel>
-    <channel id="5f931dabfe51e4001aaca88b-us">
-        <display-name>Runaway Bride</display-name>
-        <icon src="https://images.pluto.tv/episodes/5f931dabfe51e4001aaca88b/screenshot16_9_1777911841697.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=540&amp;q=75&amp;w=960"/>
     </channel>
     <channel id="61ba3f6f601198001329f894-us">
         <display-name>Terminator Genisys</display-name>
@@ -333,417 +337,422 @@
         <display-name>Stardust</display-name>
         <icon src="https://images.pluto.tv/episodes/58e28ad2d59f397bb826e994/screenshot16_9_1773939242498.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=540&amp;q=75&amp;w=960"/>
     </channel>
-    <programme channel="5ea1a8101ea4a6001a5cdb95-us" start="20260612161132 +0000" stop="20260614161132 +0000">
-        <title>Minority Report</title>
-        <desc>In the future, a division of the police department has the technology to arrest killers before they commit crimes; however, the tables turn on one of the cops working within the division.</desc>
-        <icon src="https://images.pluto.tv/episodes/5ea1a8101ea4a6001a5cdb95/screenshot16_9_1780407001731.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=540&amp;q=75&amp;w=960"/>
+    <programme channel="625ef985025eb50013a4cb42-us" start="20260612190652 +0000" stop="20260614190652 +0000">
+        <title>War of the Worlds</title>
+        <desc>A contemporary retelling of H.G.Wells' classic, the sci-fi thriller reveals the extraordinary battle for the future of humankind through the eyes of one American family.</desc>
+        <icon src="https://images.pluto.tv/episodes/625ef985025eb50013a4cb42/screenshot16_9_1777574524294.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=540&amp;q=75&amp;w=960"/>
     </programme>
-    <programme channel="663a63b3e42c230013e7c853-us" start="20260612161132 +0000" stop="20260614161132 +0000">
-        <title>Transformers</title>
-        <desc>From director Michael Bay and executive producer Steven Spielberg comes a thrilling battle between the heroic Autobots and the evil Decepticons. When their epic struggle comes to Earth, Sam Witwicky becomes mankind's last chance for survival.</desc>
-        <icon src="https://images.pluto.tv/episodes/663a63b3e42c230013e7c853/screenshot16_9_1777572362866.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=540&amp;q=75&amp;w=960"/>
-    </programme>
-    <programme channel="5a9da845fb6f2f17481afacd-us" start="20260612161132 +0000" stop="20260614161132 +0000">
-        <title>Braveheart</title>
-        <desc>William Wallace, a commoner, unites the 13th Century Scots in their battle to overthrow English rule.</desc>
-        <icon src="https://images.pluto.tv/episodes/5a9da845fb6f2f17481afacd/screenshot16_9_1777953961909.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=540&amp;q=75&amp;w=960"/>
-    </programme>
-    <programme channel="5fb6ade8dcedaf00138dc0d0-us" start="20260612161132 +0000" stop="20260614161132 +0000">
-        <title>Old School</title>
-        <desc>Three men are disenchanted with life and try to recapture their college days.</desc>
-        <icon src="https://images.pluto.tv/episodes/5fb6ade8dcedaf00138dc0d0/screenshot16_9_1769541122246.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=540&amp;q=75&amp;w=960"/>
-    </programme>
-    <programme channel="5c9c08cbc8ccd6797db6801c-us" start="20260612161132 +0000" stop="20260614161132 +0000">
-        <title>A.I. Artificial Intelligence</title>
-        <desc>In a future world, humans share aspects of their lives with companion robots called Mechas. But when an advanced prototype robot child named David is programmed to show unconditional love, his human family isn't prepared for the consequences.</desc>
-        <icon src="https://images.pluto.tv/episodes/5c9c08cbc8ccd6797db6801c/screenshot16_9_1768518364442.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=540&amp;q=75&amp;w=960"/>
-    </programme>
-    <programme channel="6254c85687cec40013564698-us" start="20260612161132 +0000" stop="20260614161132 +0000">
-        <title>Mission: Impossible - Ghost Protocol</title>
-        <desc>Agent Ethan Hunt and his elite team go underground after a bombing implicates them as terrorists. While trying to clear their name, the team uncovers a plot to start a nuclear war.</desc>
-        <icon src="https://images.pluto.tv/episodes/6254c85687cec40013564698/screenshot16_9_1778259962288.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=540&amp;q=75&amp;w=960"/>
-    </programme>
-    <programme channel="60c7922a4db0eb0013b8d238-us" start="20260612161132 +0000" stop="20260614161132 +0000">
-        <title>Fences</title>
-        <desc>Set in the 1950s Pittsburgh, the film adaptation of August Wilson’s Pulitzer Prize-winning play takes a passionate look at former baseball player Troy Maxson as he fights to provide for those he loves in a world that threatens to push him down.</desc>
-        <icon src="https://images.pluto.tv/episodes/60c7922a4db0eb0013b8d238/screenshot16_9_1769119922199.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=540&amp;q=75&amp;w=960"/>
-    </programme>
-    <programme channel="6a0e31b69ee0ad741b012758-us" start="20260612161132 +0000" stop="20260614161132 +0000">
-        <title>The Goonies</title>
-        <desc>With brothers Mikey and Brand's house slated for demolition by greedy developers, the boys' only hope lies in finding a long-lost treasure. They uncover a treasure map and, with their friends, descend to a subterranean sea and an abandoned galleon.</desc>
-        <icon src="https://images.pluto.tv/episodes/6a0e31b69ee0ad741b012758/screenshot16_9_1779315128039.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=540&amp;q=75&amp;w=960"/>
-    </programme>
-    <programme channel="62390913ffa0a9001393af10-us" start="20260612161132 +0000" stop="20260614161132 +0000">
-        <title>Zoolander</title>
-        <desc>Three-time male model of the year, Derek Zoolander, is devastated when he loses the title to newbie Hansel. After the news, Mugatu's fashion empire brainwashes Derek into being an assassin.</desc>
-        <icon src="https://images.pluto.tv/episodes/62390913ffa0a9001393af10/screenshot16_9_1781017562035.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=540&amp;q=75&amp;w=960"/>
-    </programme>
-    <programme channel="6a0cbe719ee0ad741b2a832f-us" start="20260612161132 +0000" stop="20260614161132 +0000">
-        <title>Snack Shack</title>
-        <desc>In Nebraska City, 1991, two best friends get the chance to run the swimming pool snack shack, which later becomes the perfect setting for transgression, fun, personal discovery, and romance.</desc>
-        <icon src="https://images.pluto.tv/episodes/6a0cbe719ee0ad741b2a832f/screenshot16_9_1779220082444.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=540&amp;q=75&amp;w=960"/>
-    </programme>
-    <programme channel="69e7aa44fe5af3622345fcab-us" start="20260612161132 +0000" stop="20260614161132 +0000">
-        <title>Dungeons &amp; Dragons: Honor Among Thieves</title>
-        <desc>A charming thief and a band of unlikely adventurers undertake an epic heist to retrieve a lost relic. Still, things go dangerously awry when they run afoul of the wrong people in this hilarious and action-packed adventure.</desc>
-        <icon src="https://images.pluto.tv/episodes/69e7aa44fe5af3622345fcab/screenshot16_9_1776790085602.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=540&amp;q=75&amp;w=960"/>
-    </programme>
-    <programme channel="69ef8b5911a68f77042c1726-us" start="20260612161132 +0000" stop="20260614161132 +0000">
-        <title>Teenage Mutant Ninja Turtles: Mutant Mayhem</title>
-        <desc>The Turtle brothers take on a mysterious crime syndicate, but they soon get in over their heads when an army of mutants is unleashed upon them.</desc>
-        <icon src="https://images.pluto.tv/episodes/69ef8b5911a68f77042c1726/screenshot16_9_1777306457933.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=540&amp;q=75&amp;w=960"/>
-    </programme>
-    <programme channel="5c6de49d967bb1dada14fba8-us" start="20260612161132 +0000" stop="20260614161132 +0000">
-        <title>Purple Rain</title>
-        <desc>Headstrong, vulnerable young musician The Kid (Prince) struggles with his own inner demons and with his alcoholic father who beats his mother. But the madness infects his music, fueling a sound that transforms the struggling, young rocker into a star.</desc>
-        <icon src="https://images.pluto.tv/episodes/5c6de49d967bb1dada14fba8/screenshot16_9_1779912362299.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=540&amp;q=75&amp;w=960"/>
-    </programme>
-    <programme channel="644971e71a5081001a13e9f7-us" start="20260612161132 +0000" stop="20260614161132 +0000">
-        <title>Indiana Jones and the Raiders of the Lost Ark</title>
-        <desc>Get ready for thrills in Indiana Jones and the Raiders of the Lost Ark. Indy and his ex-flame Marion Ravenwood dodge booby-traps, fight Nazis, and stare down snakes in their incredible worldwide quest for the mystical Ark of the Covenant.</desc>
-        <icon src="https://images.pluto.tv/episodes/644971e71a5081001a13e9f7/screenshot16_9_1769550846050.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=540&amp;q=75&amp;w=960"/>
-    </programme>
-    <programme channel="60da327bb8187f00136b07f2-us" start="20260612161132 +0000" stop="20260614161132 +0000">
-        <title>Terminator 2: Judgment Day</title>
-        <desc>The non-human machine ruling elite of the nuclear war-torn future has dispatched a cyborg assassin into the past to kill a young boy because he soon will be the resistance leader against the machines.</desc>
-        <icon src="https://images.pluto.tv/episodes/60da327bb8187f00136b07f2/screenshot16_9_1777579337783.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=540&amp;q=75&amp;w=960"/>
-    </programme>
-    <programme channel="635c1e430888bc001ad01a9b-us" start="20260612161132 +0000" stop="20260614161132 +0000">
+    <programme channel="635c1e430888bc001ad01a9b-us" start="20260612190652 +0000" stop="20260614190652 +0000">
         <title>Sonic the Hedgehog</title>
         <desc>The world needed a hero; we got a hedgehog. Superpowered with speed, Sonic races to save the world and stop evil genius Dr. Robotnik from world domination. Jim Carrey, Ben Schwartz, and James Marsden star in the adventure that the whole family will enjoy.</desc>
         <icon src="https://images.pluto.tv/episodes/635c1e430888bc001ad01a9b/screenshot16_9_1780412042036.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=540&amp;q=75&amp;w=960"/>
     </programme>
-    <programme channel="64aed673f56d820013c86ddf-us" start="20260612161132 +0000" stop="20260614161132 +0000">
-        <title>Gremlins</title>
-        <desc>The rules for a Mogwai are simple: Keep your Mogwai away from water, bright lights and, most importantly, never feed him after midnight. But in Kingston Falls the rules are broken, and the consequences multiply at an alarming rate.</desc>
-        <icon src="https://images.pluto.tv/episodes/64aed673f56d820013c86ddf/screenshot16_9_1779911550990.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=540&amp;q=75&amp;w=960"/>
-    </programme>
-    <programme channel="607dc602f96a44001a1df8b8-us" start="20260612161132 +0000" stop="20260614161132 +0000">
-        <title>Four Brothers</title>
-        <desc>After their adoptive mother is murdered during a grocery store hold-up, the Mercer bros reunite to take the matter into their own hands. As they track down the killer, they quickly realize that their old ways of doing business have new consequences.</desc>
-        <icon src="https://images.pluto.tv/episodes/607dc602f96a44001a1df8b8/screenshot16_9_1778539682806.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=540&amp;q=75&amp;w=960"/>
-    </programme>
-    <programme channel="5ed28c89efbd62001b280d5a-us" start="20260612161132 +0000" stop="20260614161132 +0000">
-        <title>Catch Me If You Can</title>
-        <desc>From three-time Oscar-winning director Steven Spielberg, Catch Me If You Can follows Frank W. Abagnale, Jr. as he successfully passes himself off as a pilot, a lawyer, and a doctor - all before his 21st birthday!</desc>
-        <icon src="https://images.pluto.tv/episodes/5ed28c89efbd62001b280d5a/screenshot16_9_1778535362635.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=540&amp;q=75&amp;w=960"/>
-    </programme>
-    <programme channel="61f8601add104a001a82354e-us" start="20260612161132 +0000" stop="20260614161132 +0000">
-        <title>The Longest Yard (2005)</title>
-        <desc>The story of a pro quarterback and former college champion and coach are asked to put together a football team of inmates to take on the guards while doing their time in prison.</desc>
-        <icon src="https://images.pluto.tv/episodes/61f8601add104a001a82354e/screenshot16_9_1769468763338.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=540&amp;q=75&amp;w=960"/>
-    </programme>
-    <programme channel="65b452a270ac44001358151c-us" start="20260612161132 +0000" stop="20260614161132 +0000">
-        <title>Disturbia</title>
-        <desc>Living under three months' house arrest, Kale Brecht (Shia LaBeouf, Transformers) passes his days spying on the neighbors. It's all fun and games until things take a horrifying turn for the worse.</desc>
-        <icon src="https://images.pluto.tv/episodes/65b452a270ac44001358151c/screenshot16_9_1778782683789.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=540&amp;q=75&amp;w=960"/>
-    </programme>
-    <programme channel="69ef9a49bf77711224de71b4-us" start="20260612161132 +0000" stop="20260614161132 +0000">
-        <title>Top Gun: Maverick</title>
-        <desc>Pete "Maverick" Mitchell keeps pushing the envelope after years of service as one of the Navy's top aviators. He must soon confront the past while training a new squad of graduates for a dangerous mission that demands the ultimate sacrifice.</desc>
-        <icon src="https://images.pluto.tv/episodes/69ef9a49bf77711224de71b4/screenshot16_9_1777390599665.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=540&amp;q=75&amp;w=960"/>
-    </programme>
-    <programme channel="654eb32391ee7c001adb062e-us" start="20260612161132 +0000" stop="20260614161132 +0000">
-        <title>Flags of Our Fathers</title>
-        <desc>From Academy Award-winning director Clint Eastwood and Academy Award-winner Steven Spielberg, comes the life stories of the six men who raised the flag at The Battle of Iwo Jima, a turning point in WWII.</desc>
-        <icon src="https://images.pluto.tv/episodes/654eb32391ee7c001adb062e/screenshot16_9_1778539323654.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=540&amp;q=75&amp;w=960"/>
-    </programme>
-    <programme channel="5f2099077d5a3f001a490131-us" start="20260612161132 +0000" stop="20260614161132 +0000">
-        <title>Harlem Nights</title>
-        <desc>In the waning days of Prohibition, Sugar Ray and his adopted son, Quick, run a speakeasy called Club Sugar Ray. Gangster Bugsy Calhoune pays corrupt cop Phil Cantone to close Club Sugar Ray down.</desc>
-        <icon src="https://images.pluto.tv/episodes/5f2099077d5a3f001a490131/screenshot16_9_1774562401713.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=540&amp;q=75&amp;w=960"/>
-    </programme>
-    <programme channel="61e9e0530a7fe8001a13a7f2-us" start="20260612161132 +0000" stop="20260614161132 +0000">
-        <title>Gladiator</title>
-        <desc>A man robbed of his name and his dignity strives to win them back, and gain the freedom of his people, in this epic historical drama from director Ridley Scott.</desc>
-        <icon src="https://images.pluto.tv/episodes/61e9e0530a7fe8001a13a7f2/screenshot16_9_1778541842426.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=540&amp;q=75&amp;w=960"/>
-    </programme>
-    <programme channel="5a9ef3002a32513a0be76275-us" start="20260612161132 +0000" stop="20260614161132 +0000">
-        <title>Nacho Libre</title>
-        <desc>Jack Black is more hilarious than ever as Ignacio, a monastery cook who feeds orphan children by day and by night transforms himself into Nacho Libre, a notorious Luchador in stretchy pants.</desc>
-        <icon src="https://images.pluto.tv/episodes/5a9ef3002a32513a0be76275/screenshot16_9_1780505649487.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=540&amp;q=75&amp;w=960"/>
-    </programme>
-    <programme channel="6509ea2e6b9e3e0013c3a542-us" start="20260612161132 +0000" stop="20260614161132 +0000">
-        <title>Eagle Eye</title>
-        <desc>Shia LaBeouf and Michelle Monaghan star as two strangers trying to escape danger when they are ripped from their ordinary lives and 'activated' as part of a hightech assassination plot.</desc>
-        <icon src="https://images.pluto.tv/episodes/6509ea2e6b9e3e0013c3a542/screenshot16_9_1778545744714.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=540&amp;q=75&amp;w=960"/>
-    </programme>
-    <programme channel="623a01faef11000014cf41f7-us" start="20260612161132 +0000" stop="20260614161132 +0000">
-        <title>How to Lose a Guy in 10 Days</title>
-        <desc>A "How to..." columnist agrees to write a first-hand account about what it takes to drive a man out of your life... in exactly 10 days.</desc>
-        <icon src="https://images.pluto.tv/episodes/623a01faef11000014cf41f7/screenshot16_9_1778542921963.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=540&amp;q=75&amp;w=960"/>
-    </programme>
-    <programme channel="66317a38d1a91700139f0ca7-us" start="20260612161132 +0000" stop="20260614161132 +0000">
-        <title>Wayne's World</title>
-        <desc>When a sleazy TV exec offers Wayne and Garth a contract to tape their late-night cable-access show at his network, they discover the road to the big time is full of gnarly twists and turns.</desc>
-        <icon src="https://images.pluto.tv/episodes/66317a38d1a91700139f0ca7/screenshot16_9_1781290442766.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=540&amp;q=75&amp;w=960"/>
-    </programme>
-    <programme channel="66a8087b8dfe2a00138c4207-us" start="20260612161132 +0000" stop="20260614161132 +0000">
-        <title>Grease</title>
-        <desc>Grease is the one that you want! Go back to high school with Pink Lady Sandy (Olivia Newton-John), leader of the bad-boy T-Birds, Danny (John Travolta), and a rockin' and rollin' all-star cast.</desc>
-        <icon src="https://images.pluto.tv/episodes/66a8087b8dfe2a00138c4207/screenshot16_9_1779462721924.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=540&amp;q=75&amp;w=960"/>
-    </programme>
-    <programme channel="654a4b563e6938001ade0cca-us" start="20260612161132 +0000" stop="20260614161132 +0000">
-        <title>First Blood</title>
-        <desc>A soft-spoken Vietnam vet drifts into a small town looking for no trouble, but finds it in the form of a psychotic local sheriff who finds pleasure in hating him for no reason.</desc>
-        <icon src="https://images.pluto.tv/episodes/654a4b563e6938001ade0cca/screenshot16_9_1778686201279.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=540&amp;q=75&amp;w=960"/>
-    </programme>
-    <programme channel="67a3ce86dd76f70014a30b56-us" start="20260612161132 +0000" stop="20260614161132 +0000">
-        <title>Homefront</title>
-        <desc>A former DEA agent relocates his family to a small Louisiana town in hopes of starting a new life. There, he finds himself face-to-face with a local drug kingpin out for revenge after discovering the agent's past cases in this crime thriller.</desc>
-        <icon src="https://images.pluto.tv/episodes/67a3ce86dd76f70014a30b56/screenshot16_9_1778252762705.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=540&amp;q=75&amp;w=960"/>
-    </programme>
-    <programme channel="6255bf9378f6d300136e5245-us" start="20260612161132 +0000" stop="20260614161132 +0000">
-        <title>Mission: Impossible</title>
-        <desc>Ethan Hunt, a secret agent, is framed for the deaths of his espionage team and attempts to flee government assassins after him. He races against the clock in order to discover the truth.</desc>
-        <icon src="https://images.pluto.tv/episodes/6255bf9378f6d300136e5245/screenshot16_9_1778606641766.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=540&amp;q=75&amp;w=960"/>
-    </programme>
-    <programme channel="602d7932ffe774001ad3798d-us" start="20260612161132 +0000" stop="20260614161132 +0000">
-        <title>Pretty In Pink</title>
-        <desc>She’s a high school girl from the wrong side of town. He’s the wealthy heartthrob who asks her to the prom. But as fast as their romance builds, it’s threatened by the painful reality of peer pressure.</desc>
-        <icon src="https://images.pluto.tv/episodes/602d7932ffe774001ad3798d/screenshot16_9_1780077242440.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=540&amp;q=75&amp;w=960"/>
-    </programme>
-    <programme channel="615792fac7de1b0013705657-us" start="20260612161132 +0000" stop="20260614161132 +0000">
-        <title>Bridget Jones's Diary</title>
-        <desc>Single girl Bridget Jones decides to turn over a new page in her life, channeling her thoughts, opinions, and insecurities into a diary.  It's instead a hilarious chronicle of her adventures in this modern-romance classic based on the bestseller.</desc>
-        <icon src="https://images.pluto.tv/episodes/615792fac7de1b0013705657/screenshot16_9_1777953961779.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=540&amp;q=75&amp;w=960"/>
-    </programme>
-    <programme channel="6083159eff0640001a6721ac-us" start="20260612161132 +0000" stop="20260614161132 +0000">
-        <title>Pulp Fiction</title>
-        <desc>Writer-director Quentin Tarantino delivers an iconic cast of characters in PULP FICTION, a wildly entertaining tale of violence and redemption. John Travolta, Samuel L. Jackson, Uma Thurman, and Bruce Willis star in this pop culture phenomenon.</desc>
-        <icon src="https://images.pluto.tv/episodes/6083159eff0640001a6721ac/screenshot16_9_1780077602994.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=540&amp;q=75&amp;w=960"/>
-    </programme>
-    <programme channel="5fcefb66a24e23001a787df6-us" start="20260612161132 +0000" stop="20260614161132 +0000">
-        <title>Bridget Jones's Baby</title>
-        <desc>Bridget Jones is back, this time unexpectedly expecting a baby while unsure of the identity of the dad. Oscar® winners Renée Zellweger and Colin Firth are joined by Patrick Dempsey in this next chapter of Bridget's hysterically unpredictable life.</desc>
-        <icon src="https://images.pluto.tv/episodes/5fcefb66a24e23001a787df6/screenshot16_9_1780588802290.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=540&amp;q=75&amp;w=960"/>
-    </programme>
-    <programme channel="58e3dadc3db51e35c61471cf-us" start="20260612161132 +0000" stop="20260614161132 +0000">
-        <title>Sweeney Todd: The Demon Barber of Fleet Street (2007)</title>
-        <desc>Depp stars in the title role as a man unjustly sent to prison who vows revenge, not only for his punishment, but for the devastating consequences that happened to his wife and daughter.</desc>
-        <icon src="https://images.pluto.tv/episodes/58e3dadc3db51e35c61471cf/screenshot16_9_1769723298341.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=540&amp;q=75&amp;w=960"/>
-    </programme>
-    <programme channel="6137ee7dc79f030013e056d0-us" start="20260612161132 +0000" stop="20260614161132 +0000">
-        <title>The Godfather</title>
-        <desc>A chilling portrait of the Corleone family's rise and near fall from power in America along with balancing the story of the Sicilian clan's ugly crime business in which they are engaged.</desc>
-        <icon src="https://images.pluto.tv/episodes/6137ee7dc79f030013e056d0/screenshot16_9_1777904311090.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=540&amp;q=75&amp;w=960"/>
-    </programme>
-    <programme channel="5e87985421f372001a2972ec-us" start="20260612161132 +0000" stop="20260614161132 +0000">
-        <title>The Guilt Trip</title>
-        <desc>"Barbra Streisand and Seth Rogen are the perfect comedy duo"* as they embark on one mother of a road trip! When Andy invites his mom on an 8-day, 3,000-mile journey across the country, the farther they go, the closer they get. *Jake Hamilton, FOX-TV</desc>
-        <icon src="https://images.pluto.tv/episodes/5e87985421f372001a2972ec/screenshot16_9_1781122321873.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=540&amp;q=75&amp;w=960"/>
-    </programme>
-    <programme channel="600726d9cc17ce00130c32a1-us" start="20260612161132 +0000" stop="20260614161132 +0000">
-        <title>Paid in Full</title>
-        <desc>A young man from Harlem, forced to cope with the 1980s drug scene, builds an illegal empire, only to have a crisis of conscience.  Featuring the hit soundtrack with songs by Eric B. &amp; Rakim, Boogie Down Productions, Guy, and Jay-Z.</desc>
-        <icon src="https://images.pluto.tv/episodes/600726d9cc17ce00130c32a1/screenshot16_9_1779986162630.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=540&amp;q=75&amp;w=960"/>
-    </programme>
-    <programme channel="5d420ade6f10d8274f067002-us" start="20260612161132 +0000" stop="20260614161132 +0000">
-        <title>Failure to Launch</title>
-        <desc>Tripp, a 35 year-old who still lives with his parents.  And who can blame him. It’s free, he’s got a great room, and mom does the laundry.  Desperate to get him out of the house, his parents hire a gorgeous woman, Paula, to give him a little…push.</desc>
-        <icon src="https://images.pluto.tv/episodes/5d420ade6f10d8274f067002/screenshot16_9_1778536803078.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=540&amp;q=75&amp;w=960"/>
-    </programme>
-    <programme channel="61e0647404ff25001a4bd76c-us" start="20260612161132 +0000" stop="20260614161132 +0000">
-        <title>Shakespeare in Love</title>
-        <desc>After providing inspiration to Will Shakespeare, his case of writer's block cured, and a taste for romance rekindled by the mysterious Lady Viola.  Gwyneth Paltrow, Joseph Fiennes, Ben Affleck, and Dame Judi Dench star in this Best Picture winner.</desc>
-        <icon src="https://images.pluto.tv/episodes/61e0647404ff25001a4bd76c/screenshot16_9_1768335132605.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=540&amp;q=75&amp;w=960"/>
-    </programme>
-    <programme channel="69b442915791ba8c130d4a89-us" start="20260612161132 +0000" stop="20260614161132 +0000">
-        <title>Bumblebee</title>
-        <desc>On a mission to protect Earth, the battle-scarred and broken Bumblebee is found and repaired by a teenager named Charlie. They must work together to save the planet from the evil Decepticons in this action-packed adventure for the whole family.</desc>
-        <icon src="https://images.pluto.tv/episodes/69b442915791ba8c130d4a89/screenshot16_9_1777929482167.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=540&amp;q=75&amp;w=960"/>
-    </programme>
-    <programme channel="6418eb1fcfd201001a7bf32c-us" start="20260612161132 +0000" stop="20260614161132 +0000">
-        <title>She's The Man</title>
-        <desc>The laughs are non-stop when Viola, disguised as her twin brother, Sebastian, joins the high school boy's soccer team and helps win the big game while unexpectedly falling for Duke, the hot star forward.</desc>
-        <icon src="https://images.pluto.tv/episodes/6418eb1fcfd201001a7bf32c/screenshot16_9_1772656921225.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=540&amp;q=75&amp;w=960"/>
-    </programme>
-    <programme channel="6887b669df1220b535831a09-us" start="20260612161132 +0000" stop="20260614161132 +0000">
-        <title>Dreamgirls</title>
-        <desc>With showstopping performances by a star-studded cast, Dreamgirls soars with the amazing story of three female singers who learn that anything is possible when you hold on to your dreams.</desc>
-        <icon src="https://images.pluto.tv/episodes/6887b669df1220b535831a09/screenshot16_9_1769034963080.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=540&amp;q=75&amp;w=960"/>
-    </programme>
-    <programme channel="5cc22332251c9fc6e72ddfa8-us" start="20260612161132 +0000" stop="20260614161132 +0000">
-        <title>Orange County</title>
-        <desc>Shaun is content to be a bright but unfocused surf slacker, until the day he discovers a novel by acclaimed author Martin Skinner. Inspired, he suddenly leaves behind Orange County to study creative writing at Stanford University.</desc>
-        <icon src="https://images.pluto.tv/episodes/5cc22332251c9fc6e72ddfa8/screenshot16_9_1770417721184.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=540&amp;q=75&amp;w=960"/>
-    </programme>
-    <programme channel="679ab2fc7641390014c38e14-us" start="20260612161132 +0000" stop="20260614161132 +0000">
-        <title>Monty Python's Life of Brian</title>
-        <desc>A notorious religious satire, the film tells the story of Brian (Graham Chapman), a reluctant would-be messiah who rises to prominence as a result of a series of absurd and truly hilarious circumstances.</desc>
-        <icon src="https://images.pluto.tv/episodes/679ab2fc7641390014c38e14/screenshot16_9_1749512522179.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=540&amp;q=75&amp;w=960"/>
-    </programme>
-    <programme channel="67edb79d89ba442cd9a895bc-us" start="20260612161132 +0000" stop="20260614161132 +0000">
-        <title>Don't Tell Mom the Babysitter's Dead (2024)</title>
-        <desc>Tanya finds her summer plans canceled when her mom jets off for a last-minute retreat and the elderly babysitter who arrives at her door unexpectedly passes away.</desc>
-        <icon src="https://images.pluto.tv/episodes/67edb79d89ba442cd9a895bc/screenshot16_9_1778188321822.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=540&amp;q=75&amp;w=960"/>
-    </programme>
-    <programme channel="679ab73006de83001463b2a3-us" start="20260612161132 +0000" stop="20260614161132 +0000">
-        <title>Monty Python and the Holy Grail</title>
-        <desc>Grossing the highest box-office of any British film in the US when released in 1975, this "cult classic" comedy from the Monty Python team loosely follows the legend of King Arthur, along with his squire and his Knights of the Round Table.</desc>
-        <icon src="https://images.pluto.tv/episodes/679ab73006de83001463b2a3/screenshot16_9_1749511442401.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=540&amp;q=75&amp;w=960"/>
-    </programme>
-    <programme channel="65df89ba92556900130fea21-us" start="20260612161132 +0000" stop="20260614161132 +0000">
-        <title>Showdown at the Grand</title>
-        <desc>A proud movie theater owner must defend his family business from corporate developers alongside a legendary action star as art imitates life in a showdown for the ages.</desc>
-        <icon src="https://images.pluto.tv/episodes/65df89ba92556900130fea21/screenshot16_9_1777571642935.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=540&amp;q=75&amp;w=960"/>
-    </programme>
-    <programme channel="629ff600cb032400134d419d-us" start="20260612161132 +0000" stop="20260614161132 +0000">
-        <title>Beverly Hills Cop</title>
-        <desc>The heat is on in this fast-paced action-comedy starring Eddie Murphy as Axel Foley, a street smart Detroit cop tracking down his best friend's killer in Beverly Hills.</desc>
-        <icon src="https://images.pluto.tv/episodes/629ff600cb032400134d419d/screenshot16_9_1778606641911.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=540&amp;q=75&amp;w=960"/>
-    </programme>
-    <programme channel="629ff604cb032400134d4222-us" start="20260612161132 +0000" stop="20260614161132 +0000">
-        <title>Beverly Hills Cop II</title>
-        <desc>The heat's back on! And Eddie Murphy is cool as ever in this sizzling, smash-hit sequel to Beverly Hills Cop.</desc>
-        <icon src="https://images.pluto.tv/episodes/629ff604cb032400134d4222/screenshot16_9_1777925882218.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=540&amp;q=75&amp;w=960"/>
-    </programme>
-    <programme channel="5c48dc671390b6759598cc9c-us" start="20260612161132 +0000" stop="20260614161132 +0000">
-        <title>Beverly Hills Cop III</title>
-        <desc>Eddie's back! So are the laughs. Eddie Murphy returns as Detroit cop Axel Foley, getting down with the fun-and-sun set as never before in this revved-up thrill-ride of a movie.</desc>
-        <icon src="https://images.pluto.tv/episodes/5c48dc671390b6759598cc9c/screenshot16_9_1780472521782.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=540&amp;q=75&amp;w=960"/>
-    </programme>
-    <programme channel="590bfa6e114615beb35251f7-us" start="20260612161132 +0000" stop="20260614161132 +0000">
-        <title>Boomerang</title>
-        <desc>Advertising executive Marcus Graham is a quintessential bachelor, Graham is never without a new lady on his arm. Enter Jacqueline, his new boss, and Marcus is on the receiving end of his own patented behavior for the first time!</desc>
-        <icon src="https://images.pluto.tv/episodes/590bfa6e114615beb35251f7/screenshot16_9_1778248094048.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=540&amp;q=75&amp;w=960"/>
-    </programme>
-    <programme channel="6137eed962aa0500144d867d-us" start="20260612161132 +0000" stop="20260614161132 +0000">
-        <title>The Godfather Part II</title>
-        <desc>The continuing saga of a young Vito Corleone growing up in Sicily and in New York during the 1910s and then following Michael Corleone in the 1950s as he tries to expand the family business.</desc>
-        <icon src="https://images.pluto.tv/episodes/6137eed962aa0500144d867d/screenshot16_9_1777493523549.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=540&amp;q=75&amp;w=960"/>
-    </programme>
-    <programme channel="6137d70a4b88c800132f4dc9-us" start="20260612161132 +0000" stop="20260614161132 +0000">
-        <title>Mario Puzo's The Godfather Coda: The Death of Michael Corleone</title>
-        <desc>Director/screenwriter Francis Ford Coppola's definitive new edit and restoration of THE GODFATHER: PART III, with remastered picture and sound. Michael Corleone (Pacino) seeks to free his family from crime and find a suitable successor to his empire.</desc>
-        <icon src="https://images.pluto.tv/episodes/6137d70a4b88c800132f4dc9/screenshot16_9_1778256002558.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=540&amp;q=75&amp;w=960"/>
-    </programme>
-    <programme channel="5a9da843fb6f2f17481afa96-us" start="20260612161132 +0000" stop="20260614161132 +0000">
-        <title>Clear and Present Danger</title>
-        <desc>When his mentor Admiral James Greer becomes ill, Ryan is appointed acting CIA Director of Intelligence.</desc>
-        <icon src="https://images.pluto.tv/episodes/5a9da843fb6f2f17481afa96/screenshot16_9_1778189402033.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=540&amp;q=75&amp;w=960"/>
-    </programme>
-    <programme channel="6495eff09263a40013cf63a5-us" start="20260612161132 +0000" stop="20260614161132 +0000">
-        <title>Jack Reacher</title>
-        <desc>Investigator Jack Reacher leaps off the pages of Lee Child's novel and onto the big screen in this thriller. When a horrible crime is committed, all evidence points to the suspect in custody, who offers up a single note in defense: "Get Jack Reacher!"</desc>
-        <icon src="https://images.pluto.tv/episodes/6495eff09263a40013cf63a5/screenshot16_9_1777580642264.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=540&amp;q=75&amp;w=960"/>
-    </programme>
-    <programme channel="654a4885939c4b001a54d842-us" start="20260612161132 +0000" stop="20260614161132 +0000">
-        <title>Rambo: First Blood Part II</title>
-        <desc>John Rambo is sent on assignment back to Southeast Asia to uncover evidence of still missing POWs, and ends up with his hands full when he comes up against Vietnamese soldiers still guarding the camps.</desc>
-        <icon src="https://images.pluto.tv/episodes/654a4885939c4b001a54d842/screenshot16_9_1777910761770.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=540&amp;q=75&amp;w=960"/>
-    </programme>
-    <programme channel="654aa558e2a2d8001a50139a-us" start="20260612161132 +0000" stop="20260614161132 +0000">
-        <title>Rambo III</title>
-        <desc>Rambo refuses to join his friend and former mentor, Colonel Trautman, on a mission to Afghanistan. The mission fails and Trautman is captured by Russian troops. Now Rambo must infiltrate the Russian fortress to save his only friend.</desc>
-        <icon src="https://images.pluto.tv/episodes/654aa558e2a2d8001a50139a/screenshot16_9_1777916882004.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=540&amp;q=75&amp;w=960"/>
-    </programme>
-    <programme channel="6254bcce87cec40013563ff7-us" start="20260612161132 +0000" stop="20260614161132 +0000">
-        <title>Mission: Impossible II</title>
-        <desc>The world's greatest spy, Ethan Hunt, returns and partners up with the beautiful Nyah Hall to stop renegade agent Sean Ambrose from releasing a new kind of terror on an unsuspecting world.</desc>
-        <icon src="https://images.pluto.tv/episodes/6254bcce87cec40013563ff7/screenshot16_9_1778690521705.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=540&amp;q=75&amp;w=960"/>
-    </programme>
-    <programme channel="61e9ea7bf30167001a6d270d-us" start="20260612161132 +0000" stop="20260614161132 +0000">
-        <title>Mission: Impossible III</title>
-        <desc>Ethan Hunt hurdles into spectacular new adventures from Rome to Shanghai as he races to rescue a captured agent and stop Davian from eliminating his next target, Ethan’s wife.</desc>
-        <icon src="https://images.pluto.tv/episodes/61e9ea7bf30167001a6d270d/screenshot16_9_1780075082523.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=540&amp;q=75&amp;w=960"/>
-    </programme>
-    <programme channel="62047b7de9e2e9001392307f-us" start="20260612161132 +0000" stop="20260614161132 +0000">
-        <title>Seven Psychopaths</title>
-        <desc>A struggling screenwriter inadvertently becomes entangled in the Los Angeles criminal underworld after his oddball friends kidnap a gangster's beloved Shih Tzu.</desc>
-        <icon src="https://images.pluto.tv/episodes/62047b7de9e2e9001392307f/screenshot16_9_1778792042440.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=540&amp;q=75&amp;w=960"/>
-    </programme>
-    <programme channel="60369bf405d744001a21424b-us" start="20260612161132 +0000" stop="20260614161132 +0000">
-        <title>Saving Private Ryan</title>
-        <desc>A World War II captain (Tom Hanks) and his squad (Edward Burns, Tom Sizemore) risk all to locate and send home a soldier whose three brothers died in combat.</desc>
-        <icon src="https://images.pluto.tv/episodes/60369bf405d744001a21424b/screenshot16_9.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=540&amp;q=75&amp;w=960"/>
-    </programme>
-    <programme channel="5e94c2b1dfd9d6001ad86a7a-us" start="20260612161132 +0000" stop="20260614161132 +0000">
-        <title>Total Recall</title>
-        <desc>It's 2084 A.D. and Doug Quaid is haunted by recurring dreams about journeying to Earths closest planetary neighbor, Mars.</desc>
-        <icon src="https://images.pluto.tv/episodes/5e94c2b1dfd9d6001ad86a7a/screenshot16_9_1779892562075.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=540&amp;q=75&amp;w=960"/>
-    </programme>
-    <programme channel="60d9ed29e474d5001abd5b44-us" start="20260612161132 +0000" stop="20260614161132 +0000">
-        <title>Transformers: Revenge of the Fallen</title>
-        <desc>The battle for Earth continues when college-bound Sam Witwicky learns the truth about the ancient origins of the Transformers and must join in their continued battle against the Decepticons.</desc>
-        <icon src="https://images.pluto.tv/episodes/60d9ed29e474d5001abd5b44/screenshot16_9_1777903561534.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=540&amp;q=75&amp;w=960"/>
-    </programme>
-    <programme channel="60d9ed1e60a2980013b0af5a-us" start="20260612161132 +0000" stop="20260614161132 +0000">
-        <title>Transformers: Dark of the Moon</title>
-        <desc>A mysterious event from Earth's past threatens to ignite a war so big that the Transformers alone will not be able to save the planet. Sam Witwicky and the Autobots must fight against the darkness to defend our world from the Decepticons.</desc>
-        <icon src="https://images.pluto.tv/episodes/60d9ed1e60a2980013b0af5a/screenshot16_9_1777571283825.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=540&amp;q=75&amp;w=960"/>
-    </programme>
-    <programme channel="60ff5a937791ae0013c737c7-us" start="20260612161132 +0000" stop="20260614161132 +0000">
+    <programme channel="60ff5a937791ae0013c737c7-us" start="20260612190652 +0000" stop="20260614190652 +0000">
         <title>Triple 9</title>
         <desc>When a bank-robbing crew of corrupt cops and ex-Special Forces must attempt a nearly impossible heist for a ruthless mobster, their only hope of survival is to distract the entire Atlanta police force with a “999” — cop code for “officer down.”</desc>
         <icon src="https://images.pluto.tv/episodes/60ff5a937791ae0013c737c7/screenshot16_9_1775494441261.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=540&amp;q=75&amp;w=960"/>
     </programme>
-    <programme channel="5e94acf8d2f200001a783301-us" start="20260612161132 +0000" stop="20260614161132 +0000">
-        <title>Deep Impact</title>
-        <desc>When a couple of young astronomers discover an enormous comet on course to collide with Earth, the countdown to doomsday begins, and the human race embarks on the fight for survival.</desc>
-        <icon src="https://images.pluto.tv/episodes/5e94acf8d2f200001a783301/screenshot16_9_1771530481099.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=540&amp;q=75&amp;w=960"/>
-    </programme>
-    <programme channel="5f931dabfe51e4001aaca88b-us" start="20260612161132 +0000" stop="20260614161132 +0000">
+    <programme channel="5f931dabfe51e4001aaca88b-us" start="20260612190652 +0000" stop="20260614190652 +0000">
         <title>Runaway Bride</title>
         <desc>Julia Roberts plays a small-town girl whose marches down the aisle become a series of near Mrs. when she bolts before saying "I do."</desc>
         <icon src="https://images.pluto.tv/episodes/5f931dabfe51e4001aaca88b/screenshot16_9_1777911841697.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=540&amp;q=75&amp;w=960"/>
     </programme>
-    <programme channel="61ba3f6f601198001329f894-us" start="20260612161132 +0000" stop="20260614161132 +0000">
+    <programme channel="5ea1a8101ea4a6001a5cdb95-us" start="20260612190652 +0000" stop="20260614190652 +0000">
+        <title>Minority Report</title>
+        <desc>In the future, a division of the police department has the technology to arrest killers before they commit crimes; however, the tables turn on one of the cops working within the division.</desc>
+        <icon src="https://images.pluto.tv/episodes/5ea1a8101ea4a6001a5cdb95/screenshot16_9_1780407001731.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=540&amp;q=75&amp;w=960"/>
+    </programme>
+    <programme channel="663a63b3e42c230013e7c853-us" start="20260612190652 +0000" stop="20260614190652 +0000">
+        <title>Transformers</title>
+        <desc>From director Michael Bay and executive producer Steven Spielberg comes a thrilling battle between the heroic Autobots and the evil Decepticons. When their epic struggle comes to Earth, Sam Witwicky becomes mankind's last chance for survival.</desc>
+        <icon src="https://images.pluto.tv/episodes/663a63b3e42c230013e7c853/screenshot16_9_1777572362866.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=540&amp;q=75&amp;w=960"/>
+    </programme>
+    <programme channel="5a9da845fb6f2f17481afacd-us" start="20260612190652 +0000" stop="20260614190652 +0000">
+        <title>Braveheart</title>
+        <desc>William Wallace, a commoner, unites the 13th Century Scots in their battle to overthrow English rule.</desc>
+        <icon src="https://images.pluto.tv/episodes/5a9da845fb6f2f17481afacd/screenshot16_9_1777953961909.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=540&amp;q=75&amp;w=960"/>
+    </programme>
+    <programme channel="5fb6ade8dcedaf00138dc0d0-us" start="20260612190652 +0000" stop="20260614190652 +0000">
+        <title>Old School</title>
+        <desc>Three men are disenchanted with life and try to recapture their college days.</desc>
+        <icon src="https://images.pluto.tv/episodes/5fb6ade8dcedaf00138dc0d0/screenshot16_9_1769541122246.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=540&amp;q=75&amp;w=960"/>
+    </programme>
+    <programme channel="5c9c08cbc8ccd6797db6801c-us" start="20260612190652 +0000" stop="20260614190652 +0000">
+        <title>A.I. Artificial Intelligence</title>
+        <desc>In a future world, humans share aspects of their lives with companion robots called Mechas. But when an advanced prototype robot child named David is programmed to show unconditional love, his human family isn't prepared for the consequences.</desc>
+        <icon src="https://images.pluto.tv/episodes/5c9c08cbc8ccd6797db6801c/screenshot16_9_1768518364442.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=540&amp;q=75&amp;w=960"/>
+    </programme>
+    <programme channel="6254c85687cec40013564698-us" start="20260612190652 +0000" stop="20260614190652 +0000">
+        <title>Mission: Impossible - Ghost Protocol</title>
+        <desc>Agent Ethan Hunt and his elite team go underground after a bombing implicates them as terrorists. While trying to clear their name, the team uncovers a plot to start a nuclear war.</desc>
+        <icon src="https://images.pluto.tv/episodes/6254c85687cec40013564698/screenshot16_9_1778259962288.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=540&amp;q=75&amp;w=960"/>
+    </programme>
+    <programme channel="60c7922a4db0eb0013b8d238-us" start="20260612190652 +0000" stop="20260614190652 +0000">
+        <title>Fences</title>
+        <desc>Set in the 1950s Pittsburgh, the film adaptation of August Wilson’s Pulitzer Prize-winning play takes a passionate look at former baseball player Troy Maxson as he fights to provide for those he loves in a world that threatens to push him down.</desc>
+        <icon src="https://images.pluto.tv/episodes/60c7922a4db0eb0013b8d238/screenshot16_9_1769119922199.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=540&amp;q=75&amp;w=960"/>
+    </programme>
+    <programme channel="6a0e31b69ee0ad741b012758-us" start="20260612190652 +0000" stop="20260614190652 +0000">
+        <title>The Goonies</title>
+        <desc>With brothers Mikey and Brand's house slated for demolition by greedy developers, the boys' only hope lies in finding a long-lost treasure. They uncover a treasure map and, with their friends, descend to a subterranean sea and an abandoned galleon.</desc>
+        <icon src="https://images.pluto.tv/episodes/6a0e31b69ee0ad741b012758/screenshot16_9_1779315128039.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=540&amp;q=75&amp;w=960"/>
+    </programme>
+    <programme channel="62390913ffa0a9001393af10-us" start="20260612190652 +0000" stop="20260614190652 +0000">
+        <title>Zoolander</title>
+        <desc>Three-time male model of the year, Derek Zoolander, is devastated when he loses the title to newbie Hansel. After the news, Mugatu's fashion empire brainwashes Derek into being an assassin.</desc>
+        <icon src="https://images.pluto.tv/episodes/62390913ffa0a9001393af10/screenshot16_9_1781017562035.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=540&amp;q=75&amp;w=960"/>
+    </programme>
+    <programme channel="6a0cbe719ee0ad741b2a832f-us" start="20260612190652 +0000" stop="20260614190652 +0000">
+        <title>Snack Shack</title>
+        <desc>In Nebraska City, 1991, two best friends get the chance to run the swimming pool snack shack, which later becomes the perfect setting for transgression, fun, personal discovery, and romance.</desc>
+        <icon src="https://images.pluto.tv/episodes/6a0cbe719ee0ad741b2a832f/screenshot16_9_1779220082444.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=540&amp;q=75&amp;w=960"/>
+    </programme>
+    <programme channel="69e7aa44fe5af3622345fcab-us" start="20260612190652 +0000" stop="20260614190652 +0000">
+        <title>Dungeons &amp; Dragons: Honor Among Thieves</title>
+        <desc>A charming thief and a band of unlikely adventurers undertake an epic heist to retrieve a lost relic. Still, things go dangerously awry when they run afoul of the wrong people in this hilarious and action-packed adventure.</desc>
+        <icon src="https://images.pluto.tv/episodes/69e7aa44fe5af3622345fcab/screenshot16_9_1776790085602.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=540&amp;q=75&amp;w=960"/>
+    </programme>
+    <programme channel="69ef8b5911a68f77042c1726-us" start="20260612190652 +0000" stop="20260614190652 +0000">
+        <title>Teenage Mutant Ninja Turtles: Mutant Mayhem</title>
+        <desc>The Turtle brothers take on a mysterious crime syndicate, but they soon get in over their heads when an army of mutants is unleashed upon them.</desc>
+        <icon src="https://images.pluto.tv/episodes/69ef8b5911a68f77042c1726/screenshot16_9_1777306457933.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=540&amp;q=75&amp;w=960"/>
+    </programme>
+    <programme channel="5c6de49d967bb1dada14fba8-us" start="20260612190652 +0000" stop="20260614190652 +0000">
+        <title>Purple Rain</title>
+        <desc>Headstrong, vulnerable young musician The Kid (Prince) struggles with his own inner demons and with his alcoholic father who beats his mother. But the madness infects his music, fueling a sound that transforms the struggling, young rocker into a star.</desc>
+        <icon src="https://images.pluto.tv/episodes/5c6de49d967bb1dada14fba8/screenshot16_9_1779912362299.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=540&amp;q=75&amp;w=960"/>
+    </programme>
+    <programme channel="644971e71a5081001a13e9f7-us" start="20260612190652 +0000" stop="20260614190652 +0000">
+        <title>Indiana Jones and the Raiders of the Lost Ark</title>
+        <desc>Get ready for thrills in Indiana Jones and the Raiders of the Lost Ark. Indy and his ex-flame Marion Ravenwood dodge booby-traps, fight Nazis, and stare down snakes in their incredible worldwide quest for the mystical Ark of the Covenant.</desc>
+        <icon src="https://images.pluto.tv/episodes/644971e71a5081001a13e9f7/screenshot16_9_1769550846050.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=540&amp;q=75&amp;w=960"/>
+    </programme>
+    <programme channel="60da327bb8187f00136b07f2-us" start="20260612190652 +0000" stop="20260614190652 +0000">
+        <title>Terminator 2: Judgment Day</title>
+        <desc>The non-human machine ruling elite of the nuclear war-torn future has dispatched a cyborg assassin into the past to kill a young boy because he soon will be the resistance leader against the machines.</desc>
+        <icon src="https://images.pluto.tv/episodes/60da327bb8187f00136b07f2/screenshot16_9_1777579337783.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=540&amp;q=75&amp;w=960"/>
+    </programme>
+    <programme channel="64aed673f56d820013c86ddf-us" start="20260612190652 +0000" stop="20260614190652 +0000">
+        <title>Gremlins</title>
+        <desc>The rules for a Mogwai are simple: Keep your Mogwai away from water, bright lights and, most importantly, never feed him after midnight. But in Kingston Falls the rules are broken, and the consequences multiply at an alarming rate.</desc>
+        <icon src="https://images.pluto.tv/episodes/64aed673f56d820013c86ddf/screenshot16_9_1779911550990.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=540&amp;q=75&amp;w=960"/>
+    </programme>
+    <programme channel="607dc602f96a44001a1df8b8-us" start="20260612190652 +0000" stop="20260614190652 +0000">
+        <title>Four Brothers</title>
+        <desc>After their adoptive mother is murdered during a grocery store hold-up, the Mercer bros reunite to take the matter into their own hands. As they track down the killer, they quickly realize that their old ways of doing business have new consequences.</desc>
+        <icon src="https://images.pluto.tv/episodes/607dc602f96a44001a1df8b8/screenshot16_9_1778539682806.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=540&amp;q=75&amp;w=960"/>
+    </programme>
+    <programme channel="5ed28c89efbd62001b280d5a-us" start="20260612190652 +0000" stop="20260614190652 +0000">
+        <title>Catch Me If You Can</title>
+        <desc>From three-time Oscar-winning director Steven Spielberg, Catch Me If You Can follows Frank W. Abagnale, Jr. as he successfully passes himself off as a pilot, a lawyer, and a doctor - all before his 21st birthday!</desc>
+        <icon src="https://images.pluto.tv/episodes/5ed28c89efbd62001b280d5a/screenshot16_9_1778535362635.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=540&amp;q=75&amp;w=960"/>
+    </programme>
+    <programme channel="61f8601add104a001a82354e-us" start="20260612190652 +0000" stop="20260614190652 +0000">
+        <title>The Longest Yard (2005)</title>
+        <desc>The story of a pro quarterback and former college champion and coach are asked to put together a football team of inmates to take on the guards while doing their time in prison.</desc>
+        <icon src="https://images.pluto.tv/episodes/61f8601add104a001a82354e/screenshot16_9_1769468763338.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=540&amp;q=75&amp;w=960"/>
+    </programme>
+    <programme channel="65b452a270ac44001358151c-us" start="20260612190652 +0000" stop="20260614190652 +0000">
+        <title>Disturbia</title>
+        <desc>Living under three months' house arrest, Kale Brecht (Shia LaBeouf, Transformers) passes his days spying on the neighbors. It's all fun and games until things take a horrifying turn for the worse.</desc>
+        <icon src="https://images.pluto.tv/episodes/65b452a270ac44001358151c/screenshot16_9_1778782683789.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=540&amp;q=75&amp;w=960"/>
+    </programme>
+    <programme channel="69ef9a49bf77711224de71b4-us" start="20260612190652 +0000" stop="20260614190652 +0000">
+        <title>Top Gun: Maverick</title>
+        <desc>Pete "Maverick" Mitchell keeps pushing the envelope after years of service as one of the Navy's top aviators. He must soon confront the past while training a new squad of graduates for a dangerous mission that demands the ultimate sacrifice.</desc>
+        <icon src="https://images.pluto.tv/episodes/69ef9a49bf77711224de71b4/screenshot16_9_1777390599665.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=540&amp;q=75&amp;w=960"/>
+    </programme>
+    <programme channel="654eb32391ee7c001adb062e-us" start="20260612190652 +0000" stop="20260614190652 +0000">
+        <title>Flags of Our Fathers</title>
+        <desc>From Academy Award-winning director Clint Eastwood and Academy Award-winner Steven Spielberg, comes the life stories of the six men who raised the flag at The Battle of Iwo Jima, a turning point in WWII.</desc>
+        <icon src="https://images.pluto.tv/episodes/654eb32391ee7c001adb062e/screenshot16_9_1778539323654.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=540&amp;q=75&amp;w=960"/>
+    </programme>
+    <programme channel="5f2099077d5a3f001a490131-us" start="20260612190652 +0000" stop="20260614190652 +0000">
+        <title>Harlem Nights</title>
+        <desc>In the waning days of Prohibition, Sugar Ray and his adopted son, Quick, run a speakeasy called Club Sugar Ray. Gangster Bugsy Calhoune pays corrupt cop Phil Cantone to close Club Sugar Ray down.</desc>
+        <icon src="https://images.pluto.tv/episodes/5f2099077d5a3f001a490131/screenshot16_9_1774562401713.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=540&amp;q=75&amp;w=960"/>
+    </programme>
+    <programme channel="61e9e0530a7fe8001a13a7f2-us" start="20260612190652 +0000" stop="20260614190652 +0000">
+        <title>Gladiator</title>
+        <desc>A man robbed of his name and his dignity strives to win them back, and gain the freedom of his people, in this epic historical drama from director Ridley Scott.</desc>
+        <icon src="https://images.pluto.tv/episodes/61e9e0530a7fe8001a13a7f2/screenshot16_9_1778541842426.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=540&amp;q=75&amp;w=960"/>
+    </programme>
+    <programme channel="5a9ef3002a32513a0be76275-us" start="20260612190652 +0000" stop="20260614190652 +0000">
+        <title>Nacho Libre</title>
+        <desc>Jack Black is more hilarious than ever as Ignacio, a monastery cook who feeds orphan children by day and by night transforms himself into Nacho Libre, a notorious Luchador in stretchy pants.</desc>
+        <icon src="https://images.pluto.tv/episodes/5a9ef3002a32513a0be76275/screenshot16_9_1780505649487.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=540&amp;q=75&amp;w=960"/>
+    </programme>
+    <programme channel="6509ea2e6b9e3e0013c3a542-us" start="20260612190652 +0000" stop="20260614190652 +0000">
+        <title>Eagle Eye</title>
+        <desc>Shia LaBeouf and Michelle Monaghan star as two strangers trying to escape danger when they are ripped from their ordinary lives and 'activated' as part of a hightech assassination plot.</desc>
+        <icon src="https://images.pluto.tv/episodes/6509ea2e6b9e3e0013c3a542/screenshot16_9_1778545744714.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=540&amp;q=75&amp;w=960"/>
+    </programme>
+    <programme channel="623a01faef11000014cf41f7-us" start="20260612190652 +0000" stop="20260614190652 +0000">
+        <title>How to Lose a Guy in 10 Days</title>
+        <desc>A "How to..." columnist agrees to write a first-hand account about what it takes to drive a man out of your life... in exactly 10 days.</desc>
+        <icon src="https://images.pluto.tv/episodes/623a01faef11000014cf41f7/screenshot16_9_1778542921963.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=540&amp;q=75&amp;w=960"/>
+    </programme>
+    <programme channel="66317a38d1a91700139f0ca7-us" start="20260612190652 +0000" stop="20260614190652 +0000">
+        <title>Wayne's World</title>
+        <desc>When a sleazy TV exec offers Wayne and Garth a contract to tape their late-night cable-access show at his network, they discover the road to the big time is full of gnarly twists and turns.</desc>
+        <icon src="https://images.pluto.tv/episodes/66317a38d1a91700139f0ca7/screenshot16_9_1781290442766.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=540&amp;q=75&amp;w=960"/>
+    </programme>
+    <programme channel="66a8087b8dfe2a00138c4207-us" start="20260612190652 +0000" stop="20260614190652 +0000">
+        <title>Grease</title>
+        <desc>Grease is the one that you want! Go back to high school with Pink Lady Sandy (Olivia Newton-John), leader of the bad-boy T-Birds, Danny (John Travolta), and a rockin' and rollin' all-star cast.</desc>
+        <icon src="https://images.pluto.tv/episodes/66a8087b8dfe2a00138c4207/screenshot16_9_1779462721924.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=540&amp;q=75&amp;w=960"/>
+    </programme>
+    <programme channel="654a4b563e6938001ade0cca-us" start="20260612190652 +0000" stop="20260614190652 +0000">
+        <title>First Blood</title>
+        <desc>A soft-spoken Vietnam vet drifts into a small town looking for no trouble, but finds it in the form of a psychotic local sheriff who finds pleasure in hating him for no reason.</desc>
+        <icon src="https://images.pluto.tv/episodes/654a4b563e6938001ade0cca/screenshot16_9_1778686201279.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=540&amp;q=75&amp;w=960"/>
+    </programme>
+    <programme channel="67a3ce86dd76f70014a30b56-us" start="20260612190652 +0000" stop="20260614190652 +0000">
+        <title>Homefront</title>
+        <desc>A former DEA agent relocates his family to a small Louisiana town in hopes of starting a new life. There, he finds himself face-to-face with a local drug kingpin out for revenge after discovering the agent's past cases in this crime thriller.</desc>
+        <icon src="https://images.pluto.tv/episodes/67a3ce86dd76f70014a30b56/screenshot16_9_1778252762705.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=540&amp;q=75&amp;w=960"/>
+    </programme>
+    <programme channel="6255bf9378f6d300136e5245-us" start="20260612190652 +0000" stop="20260614190652 +0000">
+        <title>Mission: Impossible</title>
+        <desc>Ethan Hunt, a secret agent, is framed for the deaths of his espionage team and attempts to flee government assassins after him. He races against the clock in order to discover the truth.</desc>
+        <icon src="https://images.pluto.tv/episodes/6255bf9378f6d300136e5245/screenshot16_9_1778606641766.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=540&amp;q=75&amp;w=960"/>
+    </programme>
+    <programme channel="602d7932ffe774001ad3798d-us" start="20260612190652 +0000" stop="20260614190652 +0000">
+        <title>Pretty In Pink</title>
+        <desc>She’s a high school girl from the wrong side of town. He’s the wealthy heartthrob who asks her to the prom. But as fast as their romance builds, it’s threatened by the painful reality of peer pressure.</desc>
+        <icon src="https://images.pluto.tv/episodes/602d7932ffe774001ad3798d/screenshot16_9_1780077242440.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=540&amp;q=75&amp;w=960"/>
+    </programme>
+    <programme channel="615792fac7de1b0013705657-us" start="20260612190652 +0000" stop="20260614190652 +0000">
+        <title>Bridget Jones's Diary</title>
+        <desc>Single girl Bridget Jones decides to turn over a new page in her life, channeling her thoughts, opinions, and insecurities into a diary.  It's instead a hilarious chronicle of her adventures in this modern-romance classic based on the bestseller.</desc>
+        <icon src="https://images.pluto.tv/episodes/615792fac7de1b0013705657/screenshot16_9_1777953961779.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=540&amp;q=75&amp;w=960"/>
+    </programme>
+    <programme channel="6083159eff0640001a6721ac-us" start="20260612190652 +0000" stop="20260614190652 +0000">
+        <title>Pulp Fiction</title>
+        <desc>Writer-director Quentin Tarantino delivers an iconic cast of characters in PULP FICTION, a wildly entertaining tale of violence and redemption. John Travolta, Samuel L. Jackson, Uma Thurman, and Bruce Willis star in this pop culture phenomenon.</desc>
+        <icon src="https://images.pluto.tv/episodes/6083159eff0640001a6721ac/screenshot16_9_1780077602994.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=540&amp;q=75&amp;w=960"/>
+    </programme>
+    <programme channel="5fcefb66a24e23001a787df6-us" start="20260612190652 +0000" stop="20260614190652 +0000">
+        <title>Bridget Jones's Baby</title>
+        <desc>Bridget Jones is back, this time unexpectedly expecting a baby while unsure of the identity of the dad. Oscar® winners Renée Zellweger and Colin Firth are joined by Patrick Dempsey in this next chapter of Bridget's hysterically unpredictable life.</desc>
+        <icon src="https://images.pluto.tv/episodes/5fcefb66a24e23001a787df6/screenshot16_9_1780588802290.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=540&amp;q=75&amp;w=960"/>
+    </programme>
+    <programme channel="58e3dadc3db51e35c61471cf-us" start="20260612190652 +0000" stop="20260614190652 +0000">
+        <title>Sweeney Todd: The Demon Barber of Fleet Street (2007)</title>
+        <desc>Depp stars in the title role as a man unjustly sent to prison who vows revenge, not only for his punishment, but for the devastating consequences that happened to his wife and daughter.</desc>
+        <icon src="https://images.pluto.tv/episodes/58e3dadc3db51e35c61471cf/screenshot16_9_1769723298341.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=540&amp;q=75&amp;w=960"/>
+    </programme>
+    <programme channel="6137ee7dc79f030013e056d0-us" start="20260612190652 +0000" stop="20260614190652 +0000">
+        <title>The Godfather</title>
+        <desc>A chilling portrait of the Corleone family's rise and near fall from power in America along with balancing the story of the Sicilian clan's ugly crime business in which they are engaged.</desc>
+        <icon src="https://images.pluto.tv/episodes/6137ee7dc79f030013e056d0/screenshot16_9_1777904311090.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=540&amp;q=75&amp;w=960"/>
+    </programme>
+    <programme channel="5e87985421f372001a2972ec-us" start="20260612190652 +0000" stop="20260614190652 +0000">
+        <title>The Guilt Trip</title>
+        <desc>"Barbra Streisand and Seth Rogen are the perfect comedy duo"* as they embark on one mother of a road trip! When Andy invites his mom on an 8-day, 3,000-mile journey across the country, the farther they go, the closer they get. *Jake Hamilton, FOX-TV</desc>
+        <icon src="https://images.pluto.tv/episodes/5e87985421f372001a2972ec/screenshot16_9_1781122321873.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=540&amp;q=75&amp;w=960"/>
+    </programme>
+    <programme channel="600726d9cc17ce00130c32a1-us" start="20260612190652 +0000" stop="20260614190652 +0000">
+        <title>Paid in Full</title>
+        <desc>A young man from Harlem, forced to cope with the 1980s drug scene, builds an illegal empire, only to have a crisis of conscience.  Featuring the hit soundtrack with songs by Eric B. &amp; Rakim, Boogie Down Productions, Guy, and Jay-Z.</desc>
+        <icon src="https://images.pluto.tv/episodes/600726d9cc17ce00130c32a1/screenshot16_9_1779986162630.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=540&amp;q=75&amp;w=960"/>
+    </programme>
+    <programme channel="5d420ade6f10d8274f067002-us" start="20260612190652 +0000" stop="20260614190652 +0000">
+        <title>Failure to Launch</title>
+        <desc>Tripp, a 35 year-old who still lives with his parents.  And who can blame him. It’s free, he’s got a great room, and mom does the laundry.  Desperate to get him out of the house, his parents hire a gorgeous woman, Paula, to give him a little…push.</desc>
+        <icon src="https://images.pluto.tv/episodes/5d420ade6f10d8274f067002/screenshot16_9_1778536803078.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=540&amp;q=75&amp;w=960"/>
+    </programme>
+    <programme channel="61e0647404ff25001a4bd76c-us" start="20260612190652 +0000" stop="20260614190652 +0000">
+        <title>Shakespeare in Love</title>
+        <desc>After providing inspiration to Will Shakespeare, his case of writer's block cured, and a taste for romance rekindled by the mysterious Lady Viola.  Gwyneth Paltrow, Joseph Fiennes, Ben Affleck, and Dame Judi Dench star in this Best Picture winner.</desc>
+        <icon src="https://images.pluto.tv/episodes/61e0647404ff25001a4bd76c/screenshot16_9_1768335132605.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=540&amp;q=75&amp;w=960"/>
+    </programme>
+    <programme channel="69b442915791ba8c130d4a89-us" start="20260612190652 +0000" stop="20260614190652 +0000">
+        <title>Bumblebee</title>
+        <desc>On a mission to protect Earth, the battle-scarred and broken Bumblebee is found and repaired by a teenager named Charlie. They must work together to save the planet from the evil Decepticons in this action-packed adventure for the whole family.</desc>
+        <icon src="https://images.pluto.tv/episodes/69b442915791ba8c130d4a89/screenshot16_9_1777929482167.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=540&amp;q=75&amp;w=960"/>
+    </programme>
+    <programme channel="6418eb1fcfd201001a7bf32c-us" start="20260612190652 +0000" stop="20260614190652 +0000">
+        <title>She's The Man</title>
+        <desc>The laughs are non-stop when Viola, disguised as her twin brother, Sebastian, joins the high school boy's soccer team and helps win the big game while unexpectedly falling for Duke, the hot star forward.</desc>
+        <icon src="https://images.pluto.tv/episodes/6418eb1fcfd201001a7bf32c/screenshot16_9_1772656921225.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=540&amp;q=75&amp;w=960"/>
+    </programme>
+    <programme channel="6887b669df1220b535831a09-us" start="20260612190652 +0000" stop="20260614190652 +0000">
+        <title>Dreamgirls</title>
+        <desc>With showstopping performances by a star-studded cast, Dreamgirls soars with the amazing story of three female singers who learn that anything is possible when you hold on to your dreams.</desc>
+        <icon src="https://images.pluto.tv/episodes/6887b669df1220b535831a09/screenshot16_9_1769034963080.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=540&amp;q=75&amp;w=960"/>
+    </programme>
+    <programme channel="5cc22332251c9fc6e72ddfa8-us" start="20260612190652 +0000" stop="20260614190652 +0000">
+        <title>Orange County</title>
+        <desc>Shaun is content to be a bright but unfocused surf slacker, until the day he discovers a novel by acclaimed author Martin Skinner. Inspired, he suddenly leaves behind Orange County to study creative writing at Stanford University.</desc>
+        <icon src="https://images.pluto.tv/episodes/5cc22332251c9fc6e72ddfa8/screenshot16_9_1770417721184.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=540&amp;q=75&amp;w=960"/>
+    </programme>
+    <programme channel="679ab2fc7641390014c38e14-us" start="20260612190652 +0000" stop="20260614190652 +0000">
+        <title>Monty Python's Life of Brian</title>
+        <desc>A notorious religious satire, the film tells the story of Brian (Graham Chapman), a reluctant would-be messiah who rises to prominence as a result of a series of absurd and truly hilarious circumstances.</desc>
+        <icon src="https://images.pluto.tv/episodes/679ab2fc7641390014c38e14/screenshot16_9_1749512522179.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=540&amp;q=75&amp;w=960"/>
+    </programme>
+    <programme channel="67edb79d89ba442cd9a895bc-us" start="20260612190652 +0000" stop="20260614190652 +0000">
+        <title>Don't Tell Mom the Babysitter's Dead (2024)</title>
+        <desc>Tanya finds her summer plans canceled when her mom jets off for a last-minute retreat and the elderly babysitter who arrives at her door unexpectedly passes away.</desc>
+        <icon src="https://images.pluto.tv/episodes/67edb79d89ba442cd9a895bc/screenshot16_9_1778188321822.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=540&amp;q=75&amp;w=960"/>
+    </programme>
+    <programme channel="679ab73006de83001463b2a3-us" start="20260612190652 +0000" stop="20260614190652 +0000">
+        <title>Monty Python and the Holy Grail</title>
+        <desc>Grossing the highest box-office of any British film in the US when released in 1975, this "cult classic" comedy from the Monty Python team loosely follows the legend of King Arthur, along with his squire and his Knights of the Round Table.</desc>
+        <icon src="https://images.pluto.tv/episodes/679ab73006de83001463b2a3/screenshot16_9_1749511442401.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=540&amp;q=75&amp;w=960"/>
+    </programme>
+    <programme channel="65df89ba92556900130fea21-us" start="20260612190652 +0000" stop="20260614190652 +0000">
+        <title>Showdown at the Grand</title>
+        <desc>A proud movie theater owner must defend his family business from corporate developers alongside a legendary action star as art imitates life in a showdown for the ages.</desc>
+        <icon src="https://images.pluto.tv/episodes/65df89ba92556900130fea21/screenshot16_9_1777571642935.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=540&amp;q=75&amp;w=960"/>
+    </programme>
+    <programme channel="629ff600cb032400134d419d-us" start="20260612190652 +0000" stop="20260614190652 +0000">
+        <title>Beverly Hills Cop</title>
+        <desc>The heat is on in this fast-paced action-comedy starring Eddie Murphy as Axel Foley, a street smart Detroit cop tracking down his best friend's killer in Beverly Hills.</desc>
+        <icon src="https://images.pluto.tv/episodes/629ff600cb032400134d419d/screenshot16_9_1778606641911.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=540&amp;q=75&amp;w=960"/>
+    </programme>
+    <programme channel="629ff604cb032400134d4222-us" start="20260612190652 +0000" stop="20260614190652 +0000">
+        <title>Beverly Hills Cop II</title>
+        <desc>The heat's back on! And Eddie Murphy is cool as ever in this sizzling, smash-hit sequel to Beverly Hills Cop.</desc>
+        <icon src="https://images.pluto.tv/episodes/629ff604cb032400134d4222/screenshot16_9_1777925882218.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=540&amp;q=75&amp;w=960"/>
+    </programme>
+    <programme channel="5c48dc671390b6759598cc9c-us" start="20260612190652 +0000" stop="20260614190652 +0000">
+        <title>Beverly Hills Cop III</title>
+        <desc>Eddie's back! So are the laughs. Eddie Murphy returns as Detroit cop Axel Foley, getting down with the fun-and-sun set as never before in this revved-up thrill-ride of a movie.</desc>
+        <icon src="https://images.pluto.tv/episodes/5c48dc671390b6759598cc9c/screenshot16_9_1780472521782.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=540&amp;q=75&amp;w=960"/>
+    </programme>
+    <programme channel="590bfa6e114615beb35251f7-us" start="20260612190652 +0000" stop="20260614190652 +0000">
+        <title>Boomerang</title>
+        <desc>Advertising executive Marcus Graham is a quintessential bachelor, Graham is never without a new lady on his arm. Enter Jacqueline, his new boss, and Marcus is on the receiving end of his own patented behavior for the first time!</desc>
+        <icon src="https://images.pluto.tv/episodes/590bfa6e114615beb35251f7/screenshot16_9_1778248094048.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=540&amp;q=75&amp;w=960"/>
+    </programme>
+    <programme channel="6137eed962aa0500144d867d-us" start="20260612190652 +0000" stop="20260614190652 +0000">
+        <title>The Godfather Part II</title>
+        <desc>The continuing saga of a young Vito Corleone growing up in Sicily and in New York during the 1910s and then following Michael Corleone in the 1950s as he tries to expand the family business.</desc>
+        <icon src="https://images.pluto.tv/episodes/6137eed962aa0500144d867d/screenshot16_9_1777493523549.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=540&amp;q=75&amp;w=960"/>
+    </programme>
+    <programme channel="6137d70a4b88c800132f4dc9-us" start="20260612190652 +0000" stop="20260614190652 +0000">
+        <title>Mario Puzo's The Godfather Coda: The Death of Michael Corleone</title>
+        <desc>Director/screenwriter Francis Ford Coppola's definitive new edit and restoration of THE GODFATHER: PART III, with remastered picture and sound. Michael Corleone (Pacino) seeks to free his family from crime and find a suitable successor to his empire.</desc>
+        <icon src="https://images.pluto.tv/episodes/6137d70a4b88c800132f4dc9/screenshot16_9_1778256002558.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=540&amp;q=75&amp;w=960"/>
+    </programme>
+    <programme channel="5a9da843fb6f2f17481afa96-us" start="20260612190652 +0000" stop="20260614190652 +0000">
+        <title>Clear and Present Danger</title>
+        <desc>When his mentor Admiral James Greer becomes ill, Ryan is appointed acting CIA Director of Intelligence.</desc>
+        <icon src="https://images.pluto.tv/episodes/5a9da843fb6f2f17481afa96/screenshot16_9_1778189402033.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=540&amp;q=75&amp;w=960"/>
+    </programme>
+    <programme channel="6495eff09263a40013cf63a5-us" start="20260612190652 +0000" stop="20260614190652 +0000">
+        <title>Jack Reacher</title>
+        <desc>Investigator Jack Reacher leaps off the pages of Lee Child's novel and onto the big screen in this thriller. When a horrible crime is committed, all evidence points to the suspect in custody, who offers up a single note in defense: "Get Jack Reacher!"</desc>
+        <icon src="https://images.pluto.tv/episodes/6495eff09263a40013cf63a5/screenshot16_9_1777580642264.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=540&amp;q=75&amp;w=960"/>
+    </programme>
+    <programme channel="654a4885939c4b001a54d842-us" start="20260612190652 +0000" stop="20260614190652 +0000">
+        <title>Rambo: First Blood Part II</title>
+        <desc>John Rambo is sent on assignment back to Southeast Asia to uncover evidence of still missing POWs, and ends up with his hands full when he comes up against Vietnamese soldiers still guarding the camps.</desc>
+        <icon src="https://images.pluto.tv/episodes/654a4885939c4b001a54d842/screenshot16_9_1777910761770.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=540&amp;q=75&amp;w=960"/>
+    </programme>
+    <programme channel="654aa558e2a2d8001a50139a-us" start="20260612190652 +0000" stop="20260614190652 +0000">
+        <title>Rambo III</title>
+        <desc>Rambo refuses to join his friend and former mentor, Colonel Trautman, on a mission to Afghanistan. The mission fails and Trautman is captured by Russian troops. Now Rambo must infiltrate the Russian fortress to save his only friend.</desc>
+        <icon src="https://images.pluto.tv/episodes/654aa558e2a2d8001a50139a/screenshot16_9_1777916882004.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=540&amp;q=75&amp;w=960"/>
+    </programme>
+    <programme channel="6254bcce87cec40013563ff7-us" start="20260612190652 +0000" stop="20260614190652 +0000">
+        <title>Mission: Impossible II</title>
+        <desc>The world's greatest spy, Ethan Hunt, returns and partners up with the beautiful Nyah Hall to stop renegade agent Sean Ambrose from releasing a new kind of terror on an unsuspecting world.</desc>
+        <icon src="https://images.pluto.tv/episodes/6254bcce87cec40013563ff7/screenshot16_9_1778690521705.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=540&amp;q=75&amp;w=960"/>
+    </programme>
+    <programme channel="61e9ea7bf30167001a6d270d-us" start="20260612190652 +0000" stop="20260614190652 +0000">
+        <title>Mission: Impossible III</title>
+        <desc>Ethan Hunt hurdles into spectacular new adventures from Rome to Shanghai as he races to rescue a captured agent and stop Davian from eliminating his next target, Ethan’s wife.</desc>
+        <icon src="https://images.pluto.tv/episodes/61e9ea7bf30167001a6d270d/screenshot16_9_1780075082523.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=540&amp;q=75&amp;w=960"/>
+    </programme>
+    <programme channel="62047b7de9e2e9001392307f-us" start="20260612190652 +0000" stop="20260614190652 +0000">
+        <title>Seven Psychopaths</title>
+        <desc>A struggling screenwriter inadvertently becomes entangled in the Los Angeles criminal underworld after his oddball friends kidnap a gangster's beloved Shih Tzu.</desc>
+        <icon src="https://images.pluto.tv/episodes/62047b7de9e2e9001392307f/screenshot16_9_1778792042440.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=540&amp;q=75&amp;w=960"/>
+    </programme>
+    <programme channel="60369bf405d744001a21424b-us" start="20260612190652 +0000" stop="20260614190652 +0000">
+        <title>Saving Private Ryan</title>
+        <desc>A World War II captain (Tom Hanks) and his squad (Edward Burns, Tom Sizemore) risk all to locate and send home a soldier whose three brothers died in combat.</desc>
+        <icon src="https://images.pluto.tv/episodes/60369bf405d744001a21424b/screenshot16_9.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=540&amp;q=75&amp;w=960"/>
+    </programme>
+    <programme channel="5e94c2b1dfd9d6001ad86a7a-us" start="20260612190652 +0000" stop="20260614190652 +0000">
+        <title>Total Recall</title>
+        <desc>It's 2084 A.D. and Doug Quaid is haunted by recurring dreams about journeying to Earths closest planetary neighbor, Mars.</desc>
+        <icon src="https://images.pluto.tv/episodes/5e94c2b1dfd9d6001ad86a7a/screenshot16_9_1779892562075.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=540&amp;q=75&amp;w=960"/>
+    </programme>
+    <programme channel="60d9ed29e474d5001abd5b44-us" start="20260612190652 +0000" stop="20260614190652 +0000">
+        <title>Transformers: Revenge of the Fallen</title>
+        <desc>The battle for Earth continues when college-bound Sam Witwicky learns the truth about the ancient origins of the Transformers and must join in their continued battle against the Decepticons.</desc>
+        <icon src="https://images.pluto.tv/episodes/60d9ed29e474d5001abd5b44/screenshot16_9_1777903561534.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=540&amp;q=75&amp;w=960"/>
+    </programme>
+    <programme channel="60d9ed1e60a2980013b0af5a-us" start="20260612190652 +0000" stop="20260614190652 +0000">
+        <title>Transformers: Dark of the Moon</title>
+        <desc>A mysterious event from Earth's past threatens to ignite a war so big that the Transformers alone will not be able to save the planet. Sam Witwicky and the Autobots must fight against the darkness to defend our world from the Decepticons.</desc>
+        <icon src="https://images.pluto.tv/episodes/60d9ed1e60a2980013b0af5a/screenshot16_9_1777571283825.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=540&amp;q=75&amp;w=960"/>
+    </programme>
+    <programme channel="5e94acf8d2f200001a783301-us" start="20260612190652 +0000" stop="20260614190652 +0000">
+        <title>Deep Impact</title>
+        <desc>When a couple of young astronomers discover an enormous comet on course to collide with Earth, the countdown to doomsday begins, and the human race embarks on the fight for survival.</desc>
+        <icon src="https://images.pluto.tv/episodes/5e94acf8d2f200001a783301/screenshot16_9_1771530481099.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=540&amp;q=75&amp;w=960"/>
+    </programme>
+    <programme channel="61ba3f6f601198001329f894-us" start="20260612190652 +0000" stop="20260614190652 +0000">
         <title>Terminator Genisys</title>
         <desc>When John Connor sends Kyle Reese back to 1984 to protect a young Sarah Connor, unexpected events alter the past and threaten the future for all mankind.  Charged with a new mission, Reese must join forces with Sarah and her "Guardian" to save the world.</desc>
         <icon src="https://images.pluto.tv/episodes/61ba3f6f601198001329f894/screenshot16_9_1777573082424.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=540&amp;q=75&amp;w=960"/>
     </programme>
-    <programme channel="5f7e16aa377682001a57c081-us" start="20260612161132 +0000" stop="20260614161132 +0000">
+    <programme channel="5f7e16aa377682001a57c081-us" start="20260612190652 +0000" stop="20260614190652 +0000">
         <title>Along Came A Spider</title>
         <desc>After the harrowing death of his partner, detective and best-selling author Alex Cross has retreated to the peace of retirement. But when a brilliant criminal (Michael Wincott) kidnaps a senator’s young daughter, Alex is lured back into action.</desc>
         <icon src="https://images.pluto.tv/episodes/5f7e16aa377682001a57c081/screenshot16_9_1768519805310.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=540&amp;q=75&amp;w=960"/>
     </programme>
-    <programme channel="6579f8acb2cbaf00137677b5-us" start="20260612161132 +0000" stop="20260614161132 +0000">
+    <programme channel="6579f8acb2cbaf00137677b5-us" start="20260612190652 +0000" stop="20260614190652 +0000">
         <title>Fatal Attraction</title>
         <desc>Michael Douglas plays Dan, a New York attorney who has a tryst with seductive Alex Forrest while his wife is away. Dan later shrugs off the affair as a mistake and considers it over. But Alex won't be ignored. Not now, not tomorrow, not ever.</desc>
         <icon src="https://images.pluto.tv/episodes/6579f8acb2cbaf00137677b5/screenshot16_9.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=540&amp;q=75&amp;w=960"/>
     </programme>
-    <programme channel="6254a4ea3f03ed0013c40f3c-us" start="20260612161132 +0000" stop="20260614161132 +0000">
+    <programme channel="6254a4ea3f03ed0013c40f3c-us" start="20260612190652 +0000" stop="20260614190652 +0000">
         <title>Footloose</title>
         <desc>A rebellious city boy finds himself in an uptight Midwestern town where dancing and therefore all youthful joy has been banned.</desc>
         <icon src="https://images.pluto.tv/episodes/6254a4ea3f03ed0013c40f3c/screenshot16_9_1777916882313.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=540&amp;q=75&amp;w=960"/>
     </programme>
-    <programme channel="6449720a1a5081001a13edf3-us" start="20260612161132 +0000" stop="20260614161132 +0000">
+    <programme channel="6449720a1a5081001a13edf3-us" start="20260612190652 +0000" stop="20260614190652 +0000">
         <title>Indiana Jones and the Temple of Doom</title>
         <desc>Indiana Jones and the Temple of Doom brings you thrills and excitement. Indy, his sidekick Short Round and nightclub singer Willie Scott go from high-flying action above the Himalayas to a spine-tingling escape from a fortress-like mine in India.</desc>
         <icon src="https://images.pluto.tv/episodes/6449720a1a5081001a13edf3/screenshot16_9_1769465882260.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=540&amp;q=75&amp;w=960"/>
     </programme>
-    <programme channel="644986fa559c07001a11a337-us" start="20260612161132 +0000" stop="20260614161132 +0000">
+    <programme channel="644986fa559c07001a11a337-us" start="20260612190652 +0000" stop="20260614190652 +0000">
         <title>Indiana Jones and the Last Crusade</title>
         <desc>There's nothing more exciting than trying to keep up with the Joneses in Indiana Jones and the Last Crusade. Indy's Nazi enemies are back and have kidnapped his father, in their effort to locate the sacred Holy Grail.</desc>
         <icon src="https://images.pluto.tv/episodes/644986fa559c07001a11a337/screenshot16_9_1769465536679.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=540&amp;q=75&amp;w=960"/>
     </programme>
-    <programme channel="64498c9f737654001d497d3f-us" start="20260612161132 +0000" stop="20260614161132 +0000">
+    <programme channel="64498c9f737654001d497d3f-us" start="20260612190652 +0000" stop="20260614190652 +0000">
         <title>Indiana Jones and the Kingdom of the Crystal Skull</title>
         <desc>STEVEN SPIELBERG and GEORGE LUCAS bring you the greatest adventurer of all time! Indiana Jones and the Kingdom of the Crystal Skull finds Indy trying to outrace a brilliant and beautiful agent for the mystical, all-powerful crystal skull of Akator.</desc>
         <icon src="https://images.pluto.tv/episodes/64498c9f737654001d497d3f/screenshot16_9_1777911122143.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=540&amp;q=75&amp;w=960"/>
     </programme>
-    <programme channel="5ea1a80c1ea4a6001a5cdaf8-us" start="20260612161132 +0000" stop="20260614161132 +0000">
+    <programme channel="5ea1a80c1ea4a6001a5cdaf8-us" start="20260612190652 +0000" stop="20260614190652 +0000">
         <title>John Grisham's The Rainmaker</title>
         <desc>Matt Damon plays Rudy Baylor, a rookie lawyer in over his head on a high-profile case. Opposing him: an army of legal sharks. On Rudy’s side: Deck Shifflet, a feisty “para-lawyer” who specializes in flunking the bar exam.</desc>
         <icon src="https://images.pluto.tv/episodes/5ea1a80c1ea4a6001a5cdaf8/screenshot16_9.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=540&amp;q=75&amp;w=960"/>
     </programme>
-    <programme channel="5a9dd73dfb6f2f17481aff11-us" start="20260612161132 +0000" stop="20260614161132 +0000">
+    <programme channel="5a9dd73dfb6f2f17481aff11-us" start="20260612190652 +0000" stop="20260614190652 +0000">
         <title>Lara Croft: Tomb Raider</title>
         <desc>Exploring lost empires and finding priceless treasures... it's all in a day's work for Lara Croft. Though, a secret from her father's past is about to lead Lara to her greatest challenge.</desc>
         <icon src="https://images.pluto.tv/episodes/5a9dd73dfb6f2f17481aff11/screenshot16_9_1779908402520.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=540&amp;q=75&amp;w=960"/>
     </programme>
-    <programme channel="602aba55f2c1bd001af23da8-us" start="20260612161132 +0000" stop="20260614161132 +0000">
+    <programme channel="602aba55f2c1bd001af23da8-us" start="20260612190652 +0000" stop="20260614190652 +0000">
         <title>Lara Croft Tomb Raider: Cradle of Life</title>
         <desc>Lara Croft sets out on a quest to save Pandora's box from landing in the wrong hands.  Join her as she races through furious hand-to-hand battles, blazing shoot-outs and breathtaking sky-diving escapes to try to save the ancient artifact.</desc>
         <icon src="https://images.pluto.tv/episodes/602aba55f2c1bd001af23da8/screenshot16_9_1777910402066.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=540&amp;q=75&amp;w=960"/>
     </programme>
-    <programme channel="5bad6e7cac5d753a4b63da1e-us" start="20260612161132 +0000" stop="20260614161132 +0000">
+    <programme channel="5bad6e7cac5d753a4b63da1e-us" start="20260612190652 +0000" stop="20260614190652 +0000">
         <title>The Last Airbender</title>
         <desc>Air, Water, Earth, Fire. Four nations are tied by destiny when Fire launches war against the others. Caught between the war, one Avatar discovers he's able to manipulate all four elements.</desc>
         <icon src="https://images.pluto.tv/episodes/5bad6e7cac5d753a4b63da1e/screenshot16_9_1779830641670.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=540&amp;q=75&amp;w=960"/>
     </programme>
-    <programme channel="58e28ad2d59f397bb826e994-us" start="20260612161132 +0000" stop="20260614161132 +0000">
+    <programme channel="58e28ad2d59f397bb826e994-us" start="20260612190652 +0000" stop="20260614190652 +0000">
         <title>Stardust</title>
         <desc>In hopes of wooing a girl, Tristan promises to bring her a falling star. He soon discovers the star is actually a celestial beauty named Yvaine. When an old witch Lamia attempts to steal Yvaine's youth, Tristan must protect her.</desc>
         <icon src="https://images.pluto.tv/episodes/58e28ad2d59f397bb826e994/screenshot16_9_1773939242498.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=540&amp;q=75&amp;w=960"/>
